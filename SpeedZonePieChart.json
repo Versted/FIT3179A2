@@ -1,0 +1,13 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple pie chart with embedded data.",
+  "data": { "url": "https://versted.github.io/FIT3179/RoadDeath.csv"
+  },
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "FATALITY", "type": "quantitative"},
+    "color": {"field": "SPEED_ZONE", "type": "nominal"}
+  },
+  "view": {"stroke": null}
+}
+
