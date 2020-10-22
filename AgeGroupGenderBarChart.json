@@ -19,10 +19,40 @@
     "color": {
       "field": "Gender",
       "scale": {"range": ["#675193", "#ca8861"]}
-    }
+    },
+    "tooltip": [           
+     {"field": "Gender", "type": "nominal"},           
+     {"field": "Age Group", "type": "nominal"},
+     {"aggregate": "count", "field": "Age Group", "type": "nominal", "title": "Number of Deaths"}
+     ]
+  
   },
   "config": {
     "view": {"stroke": "transparent"},
     "axis": {"domainWidth": 1}
-  }
+  },
+  "layer": [      
+    {
+     "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Gender", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Age Group'] == '40_to_64' || datum['Age Group'] == '0_to_16'",
+            "value": 1
+          },
+          "value": 0
+        }
+
+}
+    }
+  ]
 }
