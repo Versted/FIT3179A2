@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": { "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
+  "width": {"step": 12},
+  "mark": "bar",
+  "encoding": {
+    "column": {
+      "field": "Age Group", "type": "ordinal", "spacing": 30
+    },
+    "y": {
+      "aggregate": "count", "field": "Age",
+      "title": "population",
+      "axis": {"grid": false}
+    },
+    "x": {
+      "field": "Gender",
+      "axis": {"title": ""}
+    },
+    "color": {
+      "field": "Gender",
+      "scale": {"range": ["#675193", "#ca8861"]}
+    }
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
+  }
+}
