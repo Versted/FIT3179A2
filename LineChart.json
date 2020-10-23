@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+   "width": 500,
+ "height": 400,
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
+   "params": [
+ {
+ "name": "Road_User_selection",
+ "bind": {
+ "input": "select",
+ "options": [
+ null,
+ "Driver",
+ "Motorcycle pillion passenger",
+ "Motorcycle rider",
+ "Other/-9",
+ "Passenger",
+ "Pedal cyclist",
+ "Pedestrian"
+ ],
+ "labels":[
+ "Show All",
+ "Driver",
+ "Motorcycle pillion passenger",
+ "Motorcycle rider",
+ "Other/-9",
+ "Passenger",
+ "Pedal cyclist",
+ "Pedestrian"
+ ],
+ "name": "Road User Selection: "
+ }
+ }
+ ],
+  "transform": [   
+ {"filter":"Road_User_selection == null || datum.Road_User == Road_User_selection"}
+ ],
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "x": {"timeUnit": "month", "field": "Month"},
+    "y": {"aggregate":"count", "field": "Age Group", "type": "quantitative"},
+    "color": {"field": "Road_User", "type": "nominal"},
+    "tooltip": [
+ {"field": "Road_User", "type": "nominal"},
+ {"timeUnit": "month", "field": "Month", "title": "Month"},
+ {"aggregate":"count", "field": "Month", "type": "quantitative", "title": "Number of Deaths"}
+    ]
+  }
+}
