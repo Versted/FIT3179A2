@@ -1,33 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-   "width": 500,
- "height": 400,
-  "description": "Stock prices of 5 Tech Companies over Time.",
-  "data": {"url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
-   "params": [
- {
- "name": "Road_User_selection",
- "bind": {
- "input": "select",
- "options": [
- null,
- "Driver",
- "Motorcycle pillion passenger",
- "Motorcycle rider",
- "Other/-9",
- "Passenger",
- "Pedal cyclist",
- "Pedestrian"
+  "width": 800,
+  "height": 600,
+  "title": "Selected Countries GDP ",
+  "data": {
+    "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
+     "params": [
+ {"name": "Road_User_selection",
+  "bind": {
+  "input": "select",
+  "options": [null, "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other/-9", "Passenger", "Pedal cyclist", "Pedestrian"
  ],
- "labels":[
- "Show All",
- "Driver",
- "Motorcycle pillion passenger",
- "Motorcycle rider",
- "Other/-9",
- "Passenger",
- "Pedal cyclist",
- "Pedestrian"
+ "labels":["Show All",
+ "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other/-9", "Passenger", "Pedal cyclist", "Pedestrian"
  ],
  "name": "Road User Selection: "
  }
@@ -36,18 +21,51 @@
   "transform": [   
  {"filter":"Road_User_selection == null || datum.Road_User == Road_User_selection"}
  ],
-  "mark": {
-    "type": "line",
-    "point": true
-  },
   "encoding": {
-    "x": {"timeUnit": "month", "field": "Month"},
-    "y": {"aggregate":"count", "field": "Age Group", "type": "quantitative"},
-    "color": {"field": "Road_User", "type": "nominal"},
-    "tooltip": [
- {"field": "Road_User", "type": "nominal"},
- {"timeUnit": "month", "field": "Month", "title": "Month"},
- {"aggregate":"count", "field": "Month", "type": "quantitative", "title": "Number of Deaths"}
-    ]
-  }
+    "x": {"timeUnit": "month", "field": "Month", "title": "Month"},
+    "y": {"aggregate":"count", "field": "Age Group", "type": "quantitative", "title": "Number of Deaths"},
+    "color": {
+      "field": "Country",
+      "type": "nominal"
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "Road_User_highlight": {
+          "type": "multi",
+          "fields": ["Road_User"],
+          "bind": "legend"
+        }
+      },
+      "mark": "line",
+      "encoding": {
+        "color": {
+          "field": "Road_User",
+          "type": "nominal"
+        },
+        "opacity": {
+          "condition": {"selection": "Road_User_highlight", "value": 0.6},
+          "value": 0.2
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left"
+      },
+      "encoding": {
+        "text": {"aggregate":"count", "field": "Age Group", "type": "quantitative"},
+        "color": {"value": "black"},
+        "opacity": {"condition": {"test": "datum['Month'] == '4' || datum['Road_User'] =='Driver'", "value": 1},
+        "value": 0},
+        "tooltip": [
+          {"field": "Road_User", "type": "nominal"},
+          {"field": "Month", "type": "quantitative"},
+          {"aggregate":"count", "field": "Age Group", "type": "quantitative"}
+        ]
+      }
+    }
+  ]
 }
