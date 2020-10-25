@@ -8,14 +8,28 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
+  
+<h1>Vicroian Road Deaths Visualisation by Kevin Khuu</h1>
+  
+<h2>Dot Map of Deaths in Victoria</h2>
+<div id="dot_map"></div>
 
-<div id="vis"></div>
+<h2>Line Chart of Deaths in Victoria</h2>
+<div id="line_chart"></div>  
+  
 
 <script type="text/javascript">
-  var spec = "https://versted.github.io/FIT3179A2/LineChart.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  var spec = "https://versted.github.io/FIT3179_Week-9_HW/hw9.json";
+  vegaEmbed('#dot_map', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
+  
+<script type="text/javascript">
+  var spec = "https://versted.github.io/FIT3179A2/LineChart.json";
+  vegaEmbed('#line_chart', spec).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
 </script>
   
 </body>
