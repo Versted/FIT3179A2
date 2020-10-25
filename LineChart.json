@@ -2,17 +2,16 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
   "height": 600,
-  "title": "Selected Countries GDP ",
+  "title": "Road Deaths Victoria by Road User",
   "data": {
     "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
      "params": [
  {"name": "Road_User_selection",
   "bind": {
   "input": "select",
-  "options": [null, "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other/-9", "Passenger", "Pedal cyclist", "Pedestrian"
+  "options": [null, "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other", "Passenger", "Pedal cyclist", "Pedestrian"
  ],
- "labels":["Show All",
- "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other/-9", "Passenger", "Pedal cyclist", "Pedestrian"
+ "labels":["Show All", "Driver", "Motorcycle pillion passenger", "Motorcycle rider", "Other", "Passenger", "Pedal cyclist", "Pedestrian"
  ],
  "name": "Road User Selection: "
  }
@@ -22,10 +21,10 @@
  {"filter":"Road_User_selection == null || datum.Road_User == Road_User_selection"}
  ],
   "encoding": {
-    "x": {"timeUnit": "month", "field": "Month", "title": "Month"},
-    "y": {"aggregate":"count", "field": "Age Group", "type": "quantitative", "title": "Number of Deaths"},
+    "x": {"field": "Month", "timeUnit": "month", "title": "Month", "type": "ordinal"},
+    "y": {"aggregate": "count", "field": "Age Group", "type": "quantitative", "title": "Number of Deaths"},
     "color": {
-      "field": "Country",
+      "field": "Road_User",
       "type": "nominal"
     }
   },
@@ -62,7 +61,7 @@
         "value": 0},
         "tooltip": [
           {"field": "Road_User", "type": "nominal"},
-          {"field": "Month", "type": "quantitative"},
+          {"timeUnit": "month", "field": "Month", "title": "Month"},
           {"aggregate":"count", "field": "Age Group", "type": "quantitative"}
         ]
       }
