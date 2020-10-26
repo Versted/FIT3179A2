@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": { "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
+  "mark": "bar",
+  "width": 300,
+  "height": 400,
+  "encoding": {
+    "y": {
+      "aggregate": "count", "field": "",
+      "title": "Number of Deaths"
+    },
+    "x": {"field": "Age Group"},
+    "color": {
+      "field": "Gender",
+      "scale": {"range": ["#675193", "#ca8861"]}
+    }
+  }
+}
