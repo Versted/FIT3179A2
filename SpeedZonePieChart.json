@@ -1,13 +1,38 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "A simple pie chart with embedded data.",
-  "data": { "url": "https://versted.github.io/FIT3179/RoadDeath.csv"
+  "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"
   },
-  "mark": "arc",
+  "title": "Road Deaths by Speed Limit Pie Chart",
+  "width": 400,
+  "height": 300,
+  "transform": [
+    {
+      "filter": {
+        "or": [
+          {"field": "Speed_Limit", "equal": "40"},
+          {"field": "Speed_Limit", "equal": "50"},
+          {"field": "Speed_Limit", "equal": "60"},
+          {"field": "Speed_Limit", "equal": "70"},
+          {"field": "Speed_Limit", "equal": "80"},
+          {"field": "Speed_Limit", "equal": "90"},
+          {"field": "Speed_Limit", "equal": "100"},
+          {"field": "Speed_Limit", "equal": "110"}
+        ]
+      }
+    }
+  ],
   "encoding": {
-    "theta": {"field": "FATALITY", "type": "quantitative"},
-    "color": {"field": "SPEED_ZONE", "type": "nominal"}
+    "theta": {"aggregate": "count", "field": "", "type": "quantitative","stack": true},
+    "color": {"field": "Speed_Limit", "type": "nominal", "title":"Speed Limit"}
   },
+  "layer": [{
+    "mark": {"type": "arc", "outerRadius": 100, "stroke": "white"}
+  }, {
+    "mark": {"type": "text", "radius": 120},
+    "encoding": {
+      "text": {"aggregate": "count", "field": "Speed_Limit", "type": "nominal"}
+    }
+  }],
   "view": {"stroke": null}
 }
-
