@@ -1,58 +1,29 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": { "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
+  "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"},
+  "title": "Road Deaths Based on Day of the Week and Time of Day",
   "width": {"step": 12},
   "mark": "bar",
   "encoding": {
-    "column": {
-      "field": "Age Group", "type": "ordinal", "spacing": 30
+    "column": {"timeUnit":"day", "field": "Dayweek", "spacing": 25, "type": "ordinal" , "title":null
     },
     "y": {
-      "aggregate": "count", "field": "Age",
-      "title": "population",
+      "aggregate": "count", "field": "",
+      "title": "Number of Deaths",
       "axis": {"grid": false}
     },
     "x": {
-      "field": "Gender",
+      "field": "Time of day",
       "axis": {"title": ""}
     },
     "color": {
-      "field": "Gender",
+      "field": "Time of day",
       "scale": {"range": ["#675193", "#ca8861"]}
-    },
-    "tooltip": [           
-     {"field": "Gender", "type": "nominal"},           
-     {"field": "Age Group", "type": "nominal"},
-     {"aggregate": "count", "field": "Age Group", "type": "nominal", "title": "Number of Deaths"}
-     ]
-  
+    }
   },
   "config": {
     "view": {"stroke": "transparent"},
     "axis": {"domainWidth": 1}
-  },
-  "layer": [      
-    {
-     "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 11.5,
-        "fontStyle": "italic"
-      },
-      "encoding": {
-        "text": {"field": "Gender", "type": "nominal"},
-        "color": {"value": "black"},
-        "opacity": {
-          "condition": {
-            "test": "datum['Age Group'] == '40_to_64' || datum['Age Group'] == '0_to_16'",
-            "value": 1
-          },
-          "value": 0
-        }
+  }
+}
 
-}
-    }
-  ]
-}
