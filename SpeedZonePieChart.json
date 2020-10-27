@@ -1,10 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 200,
+  "height": 300,
   "description": "A simple pie chart with embedded data.",
   "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"
   },
   "title": "Road Deaths by Speed Limit Pie Chart",
-  "width": 400,
+  "width": 200,
   "height": 300,
   "transform": [
     {
@@ -27,12 +29,13 @@
     "color": {"field": "Speed_Limit", "type": "nominal", "title":"Speed Limit"}
   },
   "layer": [{
-    "mark": {"type": "arc", "outerRadius": 100, "stroke": "white"}
+    "mark": {"type": "arc", "outerRadius": 90, "stroke": "white"}
   }, {
-    "mark": {"type": "text", "radius": 120},
+    "mark": {"type": "text", "radius": 105},
     "encoding": {
       "text": {"aggregate": "count", "field": "Speed_Limit", "type": "nominal"}
     }
   }],
   "view": {"stroke": null}
 }
+
