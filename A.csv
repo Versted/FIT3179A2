@@ -1,11 +1,11 @@
 Crash ID,State,Month,Year,Dayweek,Time,Crash_Type,Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Speed_Limit,Road_User,Gender,Age,National Remoteness Areas,SA4 Name 2016,National LGA Name 2017,National Road Type,Christmas Period,Easter Period,Age Group,Day of week,Time of day
-20192240,Vic,12,2019,Thu,21:26,Single,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,26-39,Weekday,Night
-20192139,Vic,12,2019,Sun,21:06,Multiple,No,No,No,60,Passenger,Male,41,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
-20192238,Vic,12,2019,Sun,12:18,Multiple,No,No,Yes,80,Passenger,Female,37,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,26-39,Weekend,Day
-20192238,Vic,12,2019,Sun,12:18,Multiple,No,No,Yes,80,Passenger,Male,5,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,0-16,Weekend,Day
-20192064,Vic,12,2019,Thu,06:25,Multiple,No,No,No,80,Pedal cyclist,Male,24,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,17-25,Weekday,Day
-20192081,Vic,12,2019,Thu,17:05,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,17-25,Weekday,Day
-20192204,Vic,12,2019,Tue,10:29,Multiple,No,No,No,80,Driver,Female,38,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,Yes,No,26-39,Weekday,Day
+20192240,Vic,12,2019,0,21:26,Single,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,26-39,Weekday,Night
+20192139,Vic,12,2019,0,21:06,Multiple,No,No,No,60,Passenger,Male,41,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
+20192238,Vic,12,2019,0,12:18,Multiple,No,No,Yes,80,Passenger,Female,37,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,26-39,Weekend,Day
+20192238,Vic,12,2019,0,12:18,Multiple,No,No,Yes,80,Passenger,Male,5,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,0-16,Weekend,Day
+20192064,Vic,12,2019,0,06:25,Multiple,No,No,No,80,Pedal cyclist,Male,24,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,17-25,Weekday,Day
+20192081,Vic,12,2019,0,17:05,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20192204,Vic,12,2019,0,10:29,Multiple,No,No,No,80,Driver,Female,38,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,Yes,No,26-39,Weekday,Day
 20192225,Vic,12,2019,Fri,09:30,Multiple,No,No,No,50,Driver,Male,90,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-arterial Road,No,No,75+,Weekday,Day
 20192004,Vic,12,2019,Thu,07:14,Multiple,No,Yes,Yes,50,Driver,Male,50,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,40-64,Weekday,Day
 20192151,Vic,12,2019,Tue,09:00,Single,No,No,No,100,Driver,Male,56,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,40-64,Weekday,Day
