@@ -6,8 +6,6 @@
   "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"
   },
   "title": "Road Deaths by Speed Limit Pie Chart",
-  "width": 200,
-  "height": 300,
   "transform": [
     {
       "filter": {
