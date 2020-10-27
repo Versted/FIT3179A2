@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": { "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
   "mark": "bar",
-  "width": 450,
-  "height": 400,
+  "width": 350,
+  "height": 300,
   "encoding": {
     "y": {
       "aggregate": "count", "field": "",
