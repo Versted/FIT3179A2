@@ -45,8 +45,15 @@
         "scale":{
         "scheme":"reds"
       }
-    }
+    },
+        "tooltip": [
+      {"field": "ACCIDENT_DATE", "type": "nominal", "title": "Accident Date"},
+      {"field": "SPEED_ZONE", "type": "nominal", "title": "Speed Zone"},
+      {"field": "ACCIDENT_TYPE", "type": "nominal", "title": "Accident Type"},
+      {"field": "FATALITY", "type": "nominal", "title": "Number of Fatalities"}
+        ]
       }
     }
   ]
 }
+
