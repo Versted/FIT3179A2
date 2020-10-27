@@ -1,29 +1,29 @@
 Crash ID,State,Month,Year,Dayweek,Time,Crash_Type,Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Speed_Limit,Road_User,Gender,Age,National Remoteness Areas,SA4 Name 2016,National LGA Name 2017,National Road Type,Christmas Period,Easter Period,Age Group,Day of week,Time of day
-20192240,Vic,12,2019,0,21:26,Single,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,26-39,Weekday,Night
-20192139,Vic,12,2019,0,21:06,Multiple,No,No,No,60,Passenger,Male,41,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
-20192238,Vic,12,2019,0,12:18,Multiple,No,No,Yes,80,Passenger,Female,37,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,26-39,Weekend,Day
-20192238,Vic,12,2019,0,12:18,Multiple,No,No,Yes,80,Passenger,Male,5,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,0-16,Weekend,Day
-20192064,Vic,12,2019,0,06:25,Multiple,No,No,No,80,Pedal cyclist,Male,24,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,17-25,Weekday,Day
-20192081,Vic,12,2019,0,17:05,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,17-25,Weekday,Day
-20192204,Vic,12,2019,0,10:29,Multiple,No,No,No,80,Driver,Female,38,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,Yes,No,26-39,Weekday,Day
-20192225,Vic,12,2019,6,09:30,Multiple,No,No,No,50,Driver,Male,90,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-arterial Road,No,No,75+,Weekday,Day
-20192004,Vic,12,2019,6,07:14,Multiple,No,Yes,Yes,50,Driver,Male,50,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,40-64,Weekday,Day
-20192151,Vic,12,2019,6,09:00,Single,No,No,No,100,Driver,Male,56,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,40-64,Weekday,Day
-20192016,Vic,12,2019,6,09:30,Single,No,No,No,60,Pedestrian,Male,87,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekend,Day
-20192209,Vic,12,2019,6,22:32,Multiple,No,No,No,80,Pedal cyclist,Male,16,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,Yes,No,0-16,Weekend,Night
-20192218,Vic,12,2019,6,20:00,Multiple,No,No,No,100,Motorcycle rider,Male,39,Major Cities of Australia,Melbourne - North West,Brimbank (C),National or State Highway,No,No,26-39,Weekend,Night
-20192236,Vic,12,2019,6,06:10,Multiple,No,Yes,No,80,Driver,Male,29,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,26-39,Weekend,Day
-20192154,Vic,12,2019,3,14:18,Single,No,No,No,100,Driver,Female,37,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No,26-39,Weekday,Day
-20192220,Vic,12,2019,3,06:30,Multiple,No,No,No,-9,Driver,Female,43,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Day
-20192125,Vic,12,2019,3,14:15,Single,No,No,No,80,Driver,Male,67,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,No,No,65-74,Weekday,Day
-20192057,Vic,12,2019,Mon,20:12,Single,No,No,No,80,Driver,Male,62,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Local Road,No,No,40-64,Weekday,Night
-20192123,Vic,12,2019,Thu,14:50,Single,No,No,No,60,Pedestrian,Female,66,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,65-74,Weekday,Day
-20192163,Vic,12,2019,Thu,14:30,Single,No,No,No,50,Pedestrian,Male,77,Inner Regional Australia,Bendigo,Greater Bendigo (C),Local Road,No,No,75+,Weekday,Day
-20192191,Vic,12,2019,Fri,04:30,Single,No,No,No,60,Pedestrian,Male,53,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Collector Road,No,No,40-64,Weekday,Night
-20192094,Vic,11,2019,Tue,22:30,Single,No,No,No,70,Driver,Male,41,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Night
-20192070,Vic,11,2019,Sun,16:16,Single,No,No,No,60,Driver,Male,66,Inner Regional Australia,North West,Ararat (RC),National or State Highway,No,No,65-74,Weekend,Day
-20192219,Vic,11,2019,Sat,05:09,Multiple,No,No,Yes,60,Motorcycle rider,Male,44,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,40-64,Weekend,Night
-20192175,Vic,11,2019,Fri,16:50,Multiple,No,No,No,60,Motorcycle rider,Male,44,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Local Road,No,No,40-64,Weekday,Day
+20192240,Vic,12,2019,8,21:26,Single,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,26-39,Weekday,Night
+20192139,Vic,12,2019,8,21:06,Multiple,No,No,No,60,Passenger,Male,41,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
+20192238,Vic,12,2019,8,12:18,Multiple,No,No,Yes,80,Passenger,Female,37,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,26-39,Weekend,Day
+20192238,Vic,12,2019,8,12:18,Multiple,No,No,Yes,80,Passenger,Male,5,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,0-16,Weekend,Day
+20192064,Vic,12,2019,8,06:25,Multiple,No,No,No,80,Pedal cyclist,Male,24,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,17-25,Weekday,Day
+20192081,Vic,12,2019,8,17:05,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20192204,Vic,12,2019,8,10:29,Multiple,No,No,No,80,Driver,Female,38,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,Yes,No,26-39,Weekday,Day
+20192225,Vic,12,2019,8,09:30,Multiple,No,No,No,50,Driver,Male,90,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20192004,Vic,12,2019,8,07:14,Multiple,No,Yes,Yes,50,Driver,Male,50,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,40-64,Weekday,Day
+20192151,Vic,12,2019,8,09:00,Single,No,No,No,100,Driver,Male,56,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,40-64,Weekday,Day
+20192016,Vic,12,2019,8,09:30,Single,No,No,No,60,Pedestrian,Male,87,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekend,Day
+20192209,Vic,12,2019,8,22:32,Multiple,No,No,No,80,Pedal cyclist,Male,16,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,Yes,No,0-16,Weekend,Night
+20192218,Vic,12,2019,8,20:00,Multiple,No,No,No,100,Motorcycle rider,Male,39,Major Cities of Australia,Melbourne - North West,Brimbank (C),National or State Highway,No,No,26-39,Weekend,Night
+20192236,Vic,12,2019,8,06:10,Multiple,No,Yes,No,80,Driver,Male,29,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,26-39,Weekend,Day
+20192154,Vic,12,2019,8,14:18,Single,No,No,No,100,Driver,Female,37,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No,26-39,Weekday,Day
+20192220,Vic,12,2019,8,06:30,Multiple,No,No,No,-9,Driver,Female,43,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Day
+20192125,Vic,12,2019,8,14:15,Single,No,No,No,80,Driver,Male,67,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,No,No,65-74,Weekday,Day
+20192057,Vic,12,2019,8,20:12,Single,No,No,No,80,Driver,Male,62,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Local Road,No,No,40-64,Weekday,Night
+20192123,Vic,12,2019,8,14:50,Single,No,No,No,60,Pedestrian,Female,66,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,65-74,Weekday,Day
+20192163,Vic,12,2019,8,14:30,Single,No,No,No,50,Pedestrian,Male,77,Inner Regional Australia,Bendigo,Greater Bendigo (C),Local Road,No,No,75+,Weekday,Day
+20192191,Vic,12,2019,8,04:30,Single,No,No,No,60,Pedestrian,Male,53,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Collector Road,No,No,40-64,Weekday,Night
+20192094,Vic,11,2019,1,22:30,Single,No,No,No,70,Driver,Male,41,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Night
+20192070,Vic,11,2019,1,16:16,Single,No,No,No,60,Driver,Male,66,Inner Regional Australia,North West,Ararat (RC),National or State Highway,No,No,65-74,Weekend,Day
+20192219,Vic,11,2019,1,05:09,Multiple,No,No,Yes,60,Motorcycle rider,Male,44,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,40-64,Weekend,Night
+20192175,Vic,11,2019,1,16:50,Multiple,No,No,No,60,Motorcycle rider,Male,44,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Local Road,No,No,40-64,Weekday,Day
 20192087,Vic,11,2019,Wed,14:00,Multiple,No,No,No,100,Driver,Male,28,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,No,26-39,Weekday,Day
 20192231,Vic,11,2019,Thu,03:23,Single,No,No,No,80,Pedestrian,Female,21,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,17-25,Weekday,Night
 20192233,Vic,11,2019,Mon,03:15,Multiple,No,No,Yes,100,Driver,Male,38,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,26-39,Weekend,Night
