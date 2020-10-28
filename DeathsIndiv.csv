@@ -1,0 +1,739 @@
+Crash ID,State,Month,Year,Dayweek,Time,Crash Type,Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Speed_Limit,Road_User,Gender,Age,National Remoteness Areas,SA4 Name 2016,National LGA Name 2017,National Road Type,Christmas Period,Easter Period,Age Group,Day of week,Time of day
+20192240,Vic,12,2019,Thu,21:26,Single,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,26-39,Weekday,Night
+20192139,Vic,12,2019,Sun,21:06,Multiple,No,No,No,60,Passenger,Male,41,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
+20192238,Vic,12,2019,Sun,12:18,Multiple,No,No,Yes,80,Passenger,Female,37,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,26-39,Weekend,Day
+20192238,Vic,12,2019,Sun,12:18,Multiple,No,No,Yes,80,Passenger,Male,5,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,Yes,No,0-16,Weekend,Day
+20192064,Vic,12,2019,Thu,06:25,Multiple,No,No,No,80,Pedal cyclist,Male,24,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,17-25,Weekday,Day
+20192081,Vic,12,2019,Thu,17:05,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20192204,Vic,12,2019,Tue,10:29,Multiple,No,No,No,80,Driver,Female,38,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,Yes,No,26-39,Weekday,Day
+20192225,Vic,12,2019,Fri,09:30,Multiple,No,No,No,50,Driver,Male,90,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20192004,Vic,12,2019,Thu,07:14,Multiple,No,Yes,Yes,50,Driver,Male,50,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,40-64,Weekday,Day
+20192151,Vic,12,2019,Tue,09:00,Single,No,No,No,100,Driver,Male,56,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,40-64,Weekday,Day
+20192016,Vic,12,2019,Sat,09:30,Single,No,No,No,60,Pedestrian,Male,87,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekend,Day
+20192209,Vic,12,2019,Sat,22:32,Multiple,No,No,No,80,Pedal cyclist,Male,16,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,Yes,No,0-16,Weekend,Night
+20192218,Vic,12,2019,Sun,20:00,Multiple,No,No,No,100,Motorcycle rider,Male,39,Major Cities of Australia,Melbourne - North West,Brimbank (C),National or State Highway,No,No,26-39,Weekend,Night
+20192236,Vic,12,2019,Sat,06:10,Multiple,No,Yes,No,80,Driver,Male,29,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,26-39,Weekend,Day
+20192154,Vic,12,2019,Fri,14:18,Single,No,No,No,100,Driver,Female,37,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No,26-39,Weekday,Day
+20192220,Vic,12,2019,Thu,06:30,Multiple,No,No,No,-9,Driver,Female,43,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Day
+20192125,Vic,12,2019,Fri,14:15,Single,No,No,No,80,Driver,Male,67,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,No,No,65-74,Weekday,Day
+20192057,Vic,12,2019,Mon,20:12,Single,No,No,No,80,Driver,Male,62,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Local Road,No,No,40-64,Weekday,Night
+20192123,Vic,12,2019,Thu,14:50,Single,No,No,No,60,Pedestrian,Female,66,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,65-74,Weekday,Day
+20192163,Vic,12,2019,Thu,14:30,Single,No,No,No,50,Pedestrian,Male,77,Inner Regional Australia,Bendigo,Greater Bendigo (C),Local Road,No,No,75+,Weekday,Day
+20192191,Vic,12,2019,Fri,04:30,Single,No,No,No,60,Pedestrian,Male,53,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Collector Road,No,No,40-64,Weekday,Night
+20192094,Vic,11,2019,Tue,22:30,Single,No,No,No,70,Driver,Male,41,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,40-64,Weekday,Night
+20192070,Vic,11,2019,Sun,16:16,Single,No,No,No,60,Driver,Male,66,Inner Regional Australia,North West,Ararat (RC),National or State Highway,No,No,65-74,Weekend,Day
+20192219,Vic,11,2019,Sat,05:09,Multiple,No,No,Yes,60,Motorcycle rider,Male,44,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,40-64,Weekend,Night
+20192175,Vic,11,2019,Fri,16:50,Multiple,No,No,No,60,Motorcycle rider,Male,44,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Local Road,No,No,40-64,Weekday,Day
+20192087,Vic,11,2019,Wed,14:00,Multiple,No,No,No,100,Driver,Male,28,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,No,26-39,Weekday,Day
+20192231,Vic,11,2019,Thu,03:23,Single,No,No,No,80,Pedestrian,Female,21,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,17-25,Weekday,Night
+20192233,Vic,11,2019,Mon,03:15,Multiple,No,No,Yes,100,Driver,Male,38,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,26-39,Weekend,Night
+20192120,Vic,11,2019,Thu,16:50,Multiple,No,Yes,No,80,Driver,Male,20,Inner Regional Australia,Melbourne - South East,Cardinia (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20192226,Vic,11,2019,Thu,10:48,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,17-25,Weekday,Day
+20192029,Vic,11,2019,Wed,09:30,Multiple,No,No,No,60,Motorcycle rider,Male,39,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Local Road,No,No,26-39,Weekday,Day
+20192041,Vic,11,2019,Thu,16:16,Single,No,No,No,50,Passenger,Male,33,Major Cities of Australia,Melbourne - Inner,Port Phillip (C),Collector Road,No,No,26-39,Weekday,Day
+20192114,Vic,11,2019,Mon,03:18,Multiple,No,No,No,100,Driver,Male,79,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,75+,Weekend,Night
+20192171,Vic,11,2019,Tue,15:20,Multiple,No,No,No,50,Driver,Female,63,Major Cities of Australia,Melbourne - West,Moorabool (S),Local Road,No,No,40-64,Weekday,Day
+20192197,Vic,11,2019,Fri,09:12,Single,No,No,No,100,Motorcycle rider,Male,71,Outer Regional Australia,Hume,Towong (S),Arterial Road,No,No,65-74,Weekday,Day
+20192113,Vic,11,2019,Mon,22:25,Multiple,No,No,No,100,Motorcycle rider,Male,33,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Sub-arterial Road,No,No,26-39,Weekday,Night
+20192247,Vic,11,2019,Wed,10:40,Multiple,No,No,Yes,100,Driver,Male,85,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National or State Highway,No,No,75+,Weekday,Day
+20192155,Vic,11,2019,Mon,23:20,Single,No,No,No,60,Driver,Male,29,Major Cities of Australia,Melbourne - West,Brimbank (C),Local Road,No,No,26-39,Weekday,Night
+20192040,Vic,11,2019,Thu,16:35,Single,No,No,No,100,Pedestrian,Male,54,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,40-64,Weekday,Day
+20192110,Vic,10,2019,Sun,04:30,Single,No,No,No,100,Driver,Male,35,Outer Regional Australia,North West,Yarriambiack (S),Arterial Road,No,No,26-39,Weekend,Night
+20192140,Vic,10,2019,Sun,13:05,Multiple,No,No,No,100,Driver,Male,25,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No,17-25,Weekend,Day
+20192140,Vic,10,2019,Sun,13:05,Multiple,No,No,No,100,Driver,Female,61,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No,40-64,Weekend,Day
+20192136,Vic,10,2019,Sun,22:20,Single,No,No,No,100,Driver,Female,29,Inner Regional Australia,Hume,Indigo (S),Arterial Road,No,No,26-39,Weekend,Night
+20192084,Vic,10,2019,Tue,12:03,Multiple,No,Yes,No,100,Motorcycle rider,Male,64,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,40-64,Weekday,Day
+20192104,Vic,10,2019,Mon,11:04,Single,No,Yes,No,100,Driver,Male,65,Inner Regional Australia,Hume,Towong (S),Arterial Road,No,No,65-74,Weekday,Day
+20192237,Vic,10,2019,Tue,18:49,Multiple,No,No,No,100,Driver,Male,35,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,26-39,Weekday,Night
+20192228,Vic,10,2019,Fri,07:23,Multiple,No,No,No,100,Driver,Male,76,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Local Road,No,No,75+,Weekday,Day
+20192224,Vic,10,2019,Wed,08:24,Multiple,No,No,No,100,Driver,Female,20,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20192085,Vic,10,2019,Thu,05:45,Single,No,No,No,60,Pedestrian,Male,36,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,26-39,Weekday,Night
+20192182,Vic,10,2019,Fri,03:20,Single,No,No,No,100,Driver,Male,27,Outer Regional Australia,North West,West Wimmera (S),National or State Highway,No,No,26-39,Weekday,Night
+20192071,Vic,10,2019,Sun,22:00,Single,No,No,No,70,Pedestrian,Male,27,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,26-39,Weekend,Night
+20192141,Vic,10,2019,Mon,10:37,Single,No,No,No,100,Pedestrian,Male,57,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,40-64,Weekday,Day
+20192186,Vic,10,2019,Tue,19:10,Single,No,No,No,100,Motorcycle rider,Male,47,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,40-64,Weekday,Night
+20192039,Vic,10,2019,Thu,21:06,Multiple,No,No,No,100,Pedestrian,Female,64,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),National or State Highway,No,No,40-64,Weekday,Night
+20192023,Vic,10,2019,Sun,05:40,Single,No,No,No,100,Driver,Male,27,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,26-39,Weekend,Night
+20192181,Vic,10,2019,Sat,02:16,Single,No,No,No,60,Driver,Male,21,Inner Regional Australia,Hume,Alpine (S),National or State Highway,No,No,17-25,Weekend,Night
+20192006,Vic,10,2019,Sun,16:45,Single,No,No,No,100,Motorcycle rider,Male,42,Outer Regional Australia,North West,Horsham (RC),Sub-arterial Road,No,No,40-64,Weekend,Day
+20192037,Vic,10,2019,Sun,15:59,Multiple,No,No,No,80,Motorcycle rider,Male,67,Major Cities of Australia,Melbourne - South East,Casey (C),Arterial Road,No,No,65-74,Weekend,Day
+20192058,Vic,10,2019,Sun,03:00,Single,No,Yes,No,100,Passenger,Male,52,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,40-64,Weekend,Night
+20192027,Vic,10,2019,Wed,07:15,Single,No,No,No,100,Passenger,Male,25,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,17-25,Weekday,Day
+20192241,Vic,10,2019,Mon,14:55,Multiple,No,No,No,60,Driver,Female,64,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,40-64,Weekday,Day
+20192098,Vic,10,2019,Wed,20:50,Multiple,Yes,No,No,100,Passenger,Female,22,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,17-25,Weekday,Night
+20192165,Vic,10,2019,Thu,15:22,Multiple,No,No,No,100,Passenger,Female,68,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,65-74,Weekday,Day
+20192165,Vic,10,2019,Thu,15:22,Multiple,No,No,No,100,Driver,Male,69,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,65-74,Weekday,Day
+20192146,Vic,10,2019,Sat,03:05,Single,No,No,No,80,Pedestrian,Male,20,Inner Regional Australia,Ballarat,Ballarat (C),Local Road,No,No,17-25,Weekend,Night
+20192152,Vic,9,2019,Sun,23:45,Single,No,No,No,50,Driver,Male,19,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Local Road,No,No,17-25,Weekend,Night
+20192133,Vic,9,2019,Sat,21:34,Multiple,No,Yes,No,50,Driver,Male,68,Major Cities of Australia,Melbourne - South East,Casey (C),Local Road,No,No,65-74,Weekend,Night
+20192007,Vic,9,2019,Wed,05:00,Multiple,No,No,Yes,100,Driver,Male,30,Outer Regional Australia,North West,Swan Hill (RC),National or State Highway,No,No,26-39,Weekday,Night
+20192100,Vic,9,2019,Wed,13:10,Single,No,No,No,100,Driver,Female,85,Inner Regional Australia,Hume,Murrindindi (S),Access road,No,No,75+,Weekday,Day
+20192118,Vic,9,2019,Sun,19:48,Multiple,No,No,No,80,Passenger,Female,19,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,17-25,Weekend,Night
+20192118,Vic,9,2019,Sun,19:48,Multiple,No,No,No,80,Driver,Male,21,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,17-25,Weekend,Night
+20192174,Vic,9,2019,Sun,12:15,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Bendigo,Loddon (S),Sub-arterial Road,No,No,17-25,Weekend,Day
+20192015,Vic,9,2019,Sat,12:55,Single,No,No,No,50,Passenger,Female,32,Major Cities of Australia,Melbourne - West,Brimbank (C),Local Road,No,No,26-39,Weekend,Day
+20192109,Vic,9,2019,Fri,13:52,Single,No,No,No,60,Driver,Male,23,Major Cities of Australia,Melbourne - North West,Hume (C),Collector Road,No,No,17-25,Weekday,Day
+20192051,Vic,9,2019,Sat,21:55,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,17-25,Weekend,Night
+20192051,Vic,9,2019,Sat,21:55,Single,No,No,No,100,Passenger,Male,17,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,17-25,Weekend,Night
+20192103,Vic,9,2019,Tue,06:30,Single,No,No,No,80,Driver,Male,31,Inner Regional Australia,Bendigo,Macedon Ranges (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20192054,Vic,9,2019,Thu,10:50,Multiple,No,No,No,70,Motorcycle rider,Male,55,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,40-64,Weekday,Day
+20192036,Vic,9,2019,Tue,15:05,Single,No,No,No,50,Motorcycle rider,Male,62,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No,40-64,Weekday,Day
+20192012,Vic,9,2019,Fri,14:40,Multiple,No,No,No,100,Passenger,Female,23,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,17-25,Weekday,Day
+20192012,Vic,9,2019,Fri,14:40,Multiple,No,No,No,100,Passenger,Male,39,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,26-39,Weekday,Day
+20192185,Vic,9,2019,Fri,10:50,Single,No,No,No,-9,Driver,Male,22,Outer Regional Australia,Latrobe - Gippsland,Baw Baw (S),Access road,No,No,17-25,Weekday,Day
+20192185,Vic,9,2019,Fri,10:50,Single,No,No,No,-9,Passenger,Female,21,Outer Regional Australia,Latrobe - Gippsland,Baw Baw (S),Access road,No,No,17-25,Weekday,Day
+20192177,Vic,8,2019,Sun,16:15,Multiple,No,No,No,80,Passenger,Male,16,Major Cities of Australia,Melbourne - South East,Casey (C),Local Road,No,No,0-16,Weekend,Day
+20192177,Vic,8,2019,Sun,16:15,Multiple,No,No,No,80,Passenger,Female,18,Major Cities of Australia,Melbourne - South East,Casey (C),Local Road,No,No,17-25,Weekend,Day
+20192212,Vic,8,2019,Fri,13:00,Multiple,No,No,No,80,Passenger,Female,74,Inner Regional Australia,Hume,Wodonga (C),National or State Highway,No,No,65-74,Weekday,Day
+20192169,Vic,8,2019,Mon,11:15,Single,No,No,No,-9,Driver,Male,89,Inner Regional Australia,Hume,Mitchell (S),Local Road,No,No,75+,Weekday,Day
+20192119,Vic,8,2019,Sat,12:04,Single,No,No,No,60,Pedestrian,Male,82,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Arterial Road,No,No,75+,Weekend,Day
+20192215,Vic,8,2019,Fri,22:50,Single,No,No,No,60,Pedestrian,Male,25,Inner Regional Australia,Melbourne - West,Wyndham (C),Local Road,No,No,17-25,Weekend,Night
+20192046,Vic,8,2019,Wed,21:20,Single,No,No,No,80,Driver,Male,22,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,17-25,Weekday,Night
+20192142,Vic,8,2019,Thu,21:46,Single,No,No,No,80,Pedestrian,Female,20,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,17-25,Weekday,Night
+20192192,Vic,8,2019,Thu,18:55,Single,No,No,No,50,Pedestrian,Male,45,Major Cities of Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,40-64,Weekday,Night
+20192248,Vic,8,2019,Fri,23:49,Single,No,No,No,60,Motorcycle rider,Male,47,Major Cities of Australia,Melbourne - Inner,Darebin (C),Arterial Road,No,No,40-64,Weekend,Night
+20192048,Vic,8,2019,Mon,15:57,Single,No,No,No,50,Driver,Female,52,Major Cities of Australia,Melbourne - Outer East,Whitehorse (C),Local Road,No,No,40-64,Weekday,Day
+20192127,Vic,8,2019,Mon,13:00,Single,No,No,No,100,Driver,Female,69,Inner Regional Australia,Bendigo,Mount Alexander (S),Local Road,No,No,65-74,Weekday,Day
+20192021,Vic,8,2019,Fri,15:26,Single,No,No,No,40,Driver,Male,68,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Pedestrian Thoroughfare,No,No,65-74,Weekday,Day
+20192111,Vic,8,2019,Mon,15:34,Multiple,No,No,No,80,Passenger,Female,93,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekday,Day
+20192194,Vic,8,2019,Sat,22:47,Single,No,No,No,70,Pedestrian,Male,47,Major Cities of Australia,Melbourne - West,Maribyrnong (C),National or State Highway,No,No,40-64,Weekend,Night
+20192207,Vic,8,2019,Mon,12:53,Single,No,No,No,40,Pedestrian,Male,88,Major Cities of Australia,Melbourne - Inner,Darebin (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20192187,Vic,7,2019,Sat,16:00,Single,No,No,No,60,Motorcycle rider,Male,25,Major Cities of Australia,Melbourne - West,Wyndham (C),Arterial Road,No,No,17-25,Weekend,Day
+20192020,Vic,7,2019,Sat,20:50,Multiple,No,No,No,70,Passenger,Male,18,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,17-25,Weekend,Night
+20192003,Vic,7,2019,Sat,00:20,Single,No,No,No,110,Driver,Male,34,Inner Regional Australia,Ballarat,Ballarat (C),National or State Highway,No,No,26-39,Weekend,Night
+20192009,Vic,7,2019,Thu,11:20,Multiple,No,Yes,No,60,Passenger,Female,58,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192009,Vic,7,2019,Thu,11:20,Multiple,No,Yes,No,60,Driver,Male,64,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192206,Vic,7,2019,Thu,02:05,Multiple,Yes,No,Yes,100,Driver,Male,60,Outer Regional Australia,North West,Horsham (RC),National or State Highway,No,No,40-64,Weekday,Night
+20192138,Vic,7,2019,Wed,15:50,Multiple,Yes,No,No,60,Passenger,Female,86,Inner Regional Australia,Ballarat,Hepburn (S),Sub-arterial Road,No,No,75+,Weekday,Day
+20192178,Vic,7,2019,Fri,13:56,Single,No,No,No,60,Pedestrian,Female,75,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Arterial Road,No,No,75+,Weekday,Day
+20192134,Vic,7,2019,Fri,17:45,Single,No,No,No,50,Pedestrian,Male,88,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Local Road,No,No,75+,Weekday,Day
+20192063,Vic,7,2019,Thu,05:32,Single,Yes,No,No,60,Pedestrian,Female,72,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,65-74,Weekday,Night
+20192203,Vic,7,2019,Mon,18:00,Single,No,No,No,60,Pedestrian,Female,92,Major Cities of Australia,Mornington Peninsula,Frankston (C),Sub-arterial Road,No,No,75+,Weekday,Night
+20192131,Vic,7,2019,Mon,00:18,Multiple,No,No,No,60,Pedal cyclist,Male,28,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No,26-39,Weekend,Night
+20192093,Vic,7,2019,Sun,16:06,Single,No,No,No,100,Passenger,Male,30,Inner Regional Australia,Shepparton,Greater Shepparton (C),National or State Highway,No,No,26-39,Weekend,Day
+20192117,Vic,7,2019,Sat,16:41,Multiple,No,No,No,80,Motorcycle rider,Male,40,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Sub-arterial Road,No,No,40-64,Weekend,Day
+20192069,Vic,7,2019,Wed,06:40,Multiple,No,No,No,80,Pedal cyclist,Male,49,Major Cities of Australia,Melbourne - West,Brimbank (C),Collector Road,No,No,40-64,Weekday,Day
+20192235,Vic,7,2019,Mon,16:17,Single,No,No,No,80,Pedestrian,Male,14,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Arterial Road,No,No,0-16,Weekday,Day
+20192132,Vic,7,2019,Tue,18:21,Single,No,No,No,50,Pedestrian,Female,95,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,75+,Weekday,Night
+20192028,Vic,6,2019,Mon,19:40,Multiple,No,No,Yes,40,Driver,Male,48,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,40-64,Weekday,Night
+20192159,Vic,6,2019,Sat,19:35,Single,No,No,No,100,Driver,Male,37,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,26-39,Weekend,Night
+20192198,Vic,6,2019,Fri,12:11,Multiple,No,Yes,No,60,Pedal cyclist,Male,18,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,No,No,17-25,Weekday,Day
+20192022,Vic,6,2019,Thu,13:30,Single,No,Yes,No,100,Driver,Male,52,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No,40-64,Weekday,Day
+20192055,Vic,6,2019,Wed,08:00,Single,No,No,No,-9,Pedal cyclist,Male,79,Major Cities of Australia,Melbourne - West,Wyndham (C),Local Road,No,No,75+,Weekday,Day
+20192092,Vic,6,2019,Sun,00:00,Single,No,No,No,50,Pedestrian,Male,20,Inner Regional Australia,Hume,Murrindindi (S),Local Road,No,No,17-25,Weekend,Night
+20192147,Vic,6,2019,Sun,06:40,Single,No,No,No,100,Pedestrian,Male,62,Outer Regional Australia,Bendigo,Loddon (S),National or State Highway,No,No,40-64,Weekend,Day
+20192088,Vic,6,2019,Sat,10:45,Single,No,No,No,50,Pedestrian,Male,99,Outer Regional Australia,North West,Horsham (RC),Collector Road,No,No,75+,Weekend,Day
+20192073,Vic,6,2019,Fri,12:00,Single,No,Yes,No,50,Pedestrian,Female,87,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Local Road,No,No,75+,Weekday,Day
+20192170,Vic,6,2019,Sun,05:55,Single,No,No,No,60,Driver,Male,22,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,17-25,Weekend,Night
+20192106,Vic,6,2019,Sat,01:20,Single,No,No,No,110,Driver,Male,44,Outer Regional Australia,North West,Buloke (S),National or State Highway,No,No,40-64,Weekend,Night
+20192162,Vic,6,2019,Sun,16:22,Multiple,No,No,No,80,Passenger,Female,71,Major Cities of Australia,Melbourne - West,Wyndham (C),Collector Road,No,No,65-74,Weekend,Day
+20192059,Vic,6,2019,Thu,16:45,Multiple,No,No,No,60,Motorcycle rider,Male,30,Major Cities of Australia,Melbourne - South East,Casey (C),Arterial Road,No,No,26-39,Weekday,Day
+20192122,Vic,6,2019,Wed,16:20,Multiple,No,No,No,100,Driver,Male,62,Inner Regional Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,40-64,Weekday,Day
+20192008,Vic,6,2019,Mon,15:31,Single,No,No,No,50,Driver,Male,93,Major Cities of Australia,Melbourne - South East,Monash (C),Local Road,No,No,75+,Weekday,Day
+20192166,Vic,6,2019,Sat,23:20,Single,No,No,No,100,Pedestrian,Male,39,Inner Regional Australia,Hume,Alpine (S),Arterial Road,No,No,26-39,Weekend,Night
+20192005,Vic,6,2019,Sat,19:30,Single,Yes,No,No,70,Pedestrian,Male,62,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,40-64,Weekend,Night
+20192052,Vic,6,2019,Thu,14:55,Single,No,No,No,60,Pedestrian,Male,95,Inner Regional Australia,Ballarat,Central Goldfields (S),Local Road,No,No,75+,Weekday,Day
+20192150,Vic,5,2019,Sun,17:00,Multiple,No,No,No,100,Passenger,Female,25,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,17-25,Weekend,Day
+20192150,Vic,5,2019,Sun,17:00,Multiple,No,No,No,100,Driver,Male,19,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,17-25,Weekend,Day
+20192105,Vic,5,2019,Sun,16:05,Single,No,No,Yes,100,Driver,Male,59,Outer Regional Australia,North West,West Wimmera (S),Arterial Road,No,No,40-64,Weekend,Day
+20192076,Vic,5,2019,Sat,09:00,Single,No,No,No,50,Driver,Male,49,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Local Road,No,No,40-64,Weekend,Day
+20192168,Vic,5,2019,Sat,15:34,Multiple,No,No,No,60,Driver,Male,88,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,75+,Weekend,Day
+20192179,Vic,5,2019,Fri,21:59,Single,No,No,No,50,Motorcycle rider,Male,28,Major Cities of Australia,Geelong,Greater Geelong (C),Local Road,No,No,26-39,Weekend,Night
+20192062,Vic,5,2019,Mon,20:40,Single,No,No,No,60,Passenger,Male,21,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,17-25,Weekday,Night
+20192202,Vic,5,2019,Mon,23:15,Multiple,No,No,No,80,Driver,Male,22,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),National or State Highway,No,No,17-25,Weekday,Night
+20192042,Vic,5,2019,Wed,04:30,Single,No,No,Yes,100,Driver,Male,63,Inner Regional Australia,Warrnambool and South West,Moyne (S),Sub-arterial Road,No,No,40-64,Weekday,Night
+20192158,Vic,5,2019,Mon,14:27,Single,No,No,No,60,Passenger,Female,79,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No,75+,Weekday,Day
+20192230,Vic,5,2019,Tue,07:08,Multiple,Yes,No,No,80,Driver,Female,75,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Local Road,No,No,75+,Weekday,Day
+20192245,Vic,5,2019,Fri,00:01,Single,No,No,No,80,Driver,Male,22,Inner Regional Australia,Melbourne - South East,Cardinia (S),Arterial Road,No,No,17-25,Weekday,Night
+20192167,Vic,5,2019,Sun,17:45,Single,No,No,No,60,Pedestrian,Male,68,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,65-74,Weekend,Day
+20192077,Vic,5,2019,Mon,19:35,Single,No,No,No,80,Pedestrian,Female,45,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,No,40-64,Weekday,Night
+20192202,Vic,5,2019,Mon,23:15,Multiple,No,No,No,80,Passenger,Female,18,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),National or State Highway,No,No,17-25,Weekday,Night
+20192137,Vic,5,2019,Sat,00:15,Multiple,No,No,No,100,Other,Male,19,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,17-25,Weekend,Night
+20192130,Vic,5,2019,Sun,02:30,Single,No,No,No,100,Driver,Male,19,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,17-25,Weekend,Night
+20192017,Vic,5,2019,Sat,07:38,Multiple,No,Yes,No,100,Passenger,Male,15,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),National or State Highway,No,No,0-16,Weekend,Day
+20192108,Vic,5,2019,Sat,15:45,Multiple,No,No,No,60,Motorcycle rider,Male,31,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Local Road,No,No,26-39,Weekend,Day
+20192157,Vic,5,2019,Sat,20:05,Multiple,No,No,No,60,Motorcycle rider,Male,26,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No,26-39,Weekend,Night
+20192199,Vic,5,2019,Sat,12:30,Single,No,No,No,80,Motorcycle rider,Male,58,Outer Regional Australia,Hume,Towong (S),Arterial Road,No,No,40-64,Weekend,Day
+20192172,Vic,5,2019,Wed,16:38,Single,No,No,No,70,Driver,Male,29,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,26-39,Weekday,Day
+20192030,Vic,5,2019,Thu,08:05,Multiple,No,No,No,70,Motorcycle rider,Male,47,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Arterial Road,No,No,40-64,Weekday,Day
+20192160,Vic,5,2019,Fri,15:10,Multiple,No,No,No,100,Driver,Female,56,Outer Regional Australia,Warrnambool and South West,Corangamite (S),National or State Highway,No,No,40-64,Weekday,Day
+20192160,Vic,5,2019,Fri,15:10,Multiple,No,No,No,100,Driver,Male,73,Outer Regional Australia,Warrnambool and South West,Corangamite (S),National or State Highway,No,No,65-74,Weekday,Day
+20192160,Vic,5,2019,Fri,15:10,Multiple,No,No,No,100,Passenger,Female,73,Outer Regional Australia,Warrnambool and South West,Corangamite (S),National or State Highway,No,No,65-74,Weekday,Day
+20192244,Vic,5,2019,Wed,01:15,Single,No,No,No,100,Driver,Male,42,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,40-64,Weekday,Night
+20192072,Vic,5,2019,Mon,13:30,Multiple,No,Yes,No,80,Passenger,Female,85,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Sub-arterial Road,No,No,75+,Weekday,Day
+20192072,Vic,5,2019,Mon,13:30,Multiple,No,Yes,No,80,Passenger,Male,86,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Sub-arterial Road,No,No,75+,Weekday,Day
+20192126,Vic,5,2019,Mon,10:42,Multiple,No,No,No,110,Driver,Female,77,Outer Regional Australia,North West,Mildura (RC),National or State Highway,No,No,75+,Weekday,Day
+20192246,Vic,5,2019,Fri,18:30,Single,No,No,No,80,Pedestrian,Male,41,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,40-64,Weekend,Night
+20192234,Vic,5,2019,Tue,10:35,Single,No,No,No,50,Pedestrian,Female,80,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Local Road,No,No,75+,Weekday,Day
+20192143,Vic,5,2019,Wed,20:55,Single,No,No,No,60,Pedestrian,Male,78,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,75+,Weekday,Night
+20192161,Vic,4,2019,Mon,05:52,Single,No,No,No,60,Passenger,Male,27,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),Sub-arterial Road,No,No,26-39,Weekend,Night
+20192025,Vic,4,2019,Fri,01:15,Single,No,No,No,50,Passenger,Male,17,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Local Road,No,No,17-25,Weekday,Night
+20192208,Vic,4,2019,Sun,13:10,Multiple,No,No,No,100,Driver,Female,75,Outer Regional Australia,Bendigo,Loddon (S),National or State Highway,No,No,75+,Weekend,Day
+20192239,Vic,4,2019,Thu,12:30,Multiple,No,No,No,60,Pedal cyclist,Male,30,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,26-39,Weekday,Day
+20192156,Vic,4,2019,Mon,13:00,Single,No,No,Yes,100,Driver,Male,53,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,40-64,Weekday,Day
+20192086,Vic,4,2019,Fri,06:45,Single,No,No,No,100,Passenger,Male,55,Inner Regional Australia,North West,Ararat (RC),National or State Highway,No,Yes,40-64,Weekday,Day
+20192068,Vic,4,2019,Fri,11:15,Single,No,No,No,100,Driver,Male,82,Inner Regional Australia,North West,Ararat (RC),National or State Highway,No,No,75+,Weekday,Day
+20192034,Vic,4,2019,Fri,06:20,Multiple,No,No,Yes,60,Driver,Male,50,Major Cities of Australia,Melbourne - North West,Moreland (C),Local Road,No,No,40-64,Weekday,Day
+20192035,Vic,4,2019,Tue,10:20,Single,No,Yes,No,100,Driver,Male,45,Inner Regional Australia,Ballarat,Moorabool (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192083,Vic,4,2019,Thu,13:10,Single,No,No,No,100,Driver,Female,89,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No,75+,Weekday,Day
+20192079,Vic,4,2019,Mon,05:07,Single,No,No,No,80,Pedestrian,Male,43,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,40-64,Weekend,Night
+20192038,Vic,4,2019,Sun,13:00,Single,No,No,No,60,Pedestrian,Male,91,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekend,Day
+20192190,Vic,4,2019,Fri,19:15,Single,No,No,No,80,Pedestrian,Male,29,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,Yes,26-39,Weekend,Night
+20192065,Vic,4,2019,Fri,02:40,Single,No,No,No,50,Passenger,Male,19,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,Yes,17-25,Weekday,Night
+20192095,Vic,4,2019,Sat,15:20,Single,No,Yes,No,100,Driver,Male,36,Inner Regional Australia,Hume,Indigo (S),Local Road,No,No,26-39,Weekend,Day
+20192011,Vic,4,2019,Sun,16:53,Multiple,No,No,No,100,Passenger,Female,70,Outer Regional Australia,North West,Swan Hill (RC),National or State Highway,No,No,65-74,Weekend,Day
+20192011,Vic,4,2019,Sun,16:53,Multiple,No,No,No,100,Passenger,Female,5,Outer Regional Australia,North West,Swan Hill (RC),National or State Highway,No,No,0-16,Weekend,Day
+20192128,Vic,4,2019,Tue,16:30,Single,No,No,No,90,Driver,Male,38,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20192135,Vic,4,2019,Wed,17:51,Multiple,No,No,No,60,Motorcycle rider,Male,26,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Local Road,No,No,26-39,Weekday,Day
+20192217,Vic,4,2019,Mon,20:11,Multiple,No,No,No,60,Motorcycle rider,Male,24,Major Cities of Australia,Melbourne - Inner,Yarra (C),Collector Road,No,No,17-25,Weekday,Night
+20192002,Vic,4,2019,Thu,05:22,Multiple,No,No,No,90,Driver,Male,54,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),National or State Highway,No,No,40-64,Weekday,Night
+20192176,Vic,4,2019,Mon,19:10,Multiple,No,No,No,60,Driver,Male,51,Major Cities of Australia,Melbourne - North East,Mitchell (S),Collector Road,No,No,40-64,Weekday,Night
+20192090,Vic,4,2019,Wed,09:30,Single,No,Yes,No,100,Pedestrian,Male,56,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Access road,No,No,40-64,Weekday,Day
+20192082,Vic,4,2019,Mon,11:10,Single,No,No,No,60,Pedestrian,Female,86,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,75+,Weekday,Day
+20192080,Vic,3,2019,Sun,18:02,Single,No,No,No,50,Passenger,Male,20,Major Cities of Australia,Melbourne - North West,Hume (C),Local Road,No,No,17-25,Weekend,Night
+20192213,Vic,3,2019,Thu,19:55,Single,No,No,No,100,Driver,Male,33,Outer Regional Australia,Shepparton,Moira (S),Local Road,No,No,26-39,Weekday,Night
+20192101,Vic,3,2019,Mon,03:00,Single,No,No,Yes,100,Driver,Male,53,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National or State Highway,No,No,40-64,Weekend,Night
+20192075,Vic,3,2019,Sun,05:54,Multiple,No,No,No,50,Driver,Male,53,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Local Road,No,No,40-64,Weekend,Night
+20192050,Vic,3,2019,Sun,09:00,Single,No,No,No,100,Motorcycle rider,Male,49,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,40-64,Weekend,Day
+20192089,Vic,3,2019,Sun,15:00,Multiple,No,No,No,100,Pedal cyclist,Male,59,Inner Regional Australia,Ballarat,Hepburn (S),Arterial Road,No,No,40-64,Weekend,Day
+20192067,Vic,3,2019,Sun,13:15,Multiple,No,No,Yes,100,Driver,Female,68,Inner Regional Australia,Geelong,Golden Plains (S),National or State Highway,No,No,65-74,Weekend,Day
+20192053,Vic,3,2019,Mon,11:32,Single,No,No,No,100,Driver,Male,31,Outer Regional Australia,North West,Gannawarra (S),National or State Highway,No,No,26-39,Weekday,Day
+20192243,Vic,3,2019,Fri,15:56,Multiple,No,No,No,60,Motorcycle rider,Male,63,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Local Road,No,No,40-64,Weekday,Day
+20192189,Vic,3,2019,Mon,16:35,Multiple,No,No,No,100,Driver,Male,65,Outer Regional Australia,North West,Northern Grampians (S),National or State Highway,No,No,65-74,Weekday,Day
+20192032,Vic,3,2019,Tue,18:30,Single,No,No,No,100,Motorcycle rider,Male,42,Outer Regional Australia,North West,West Wimmera (S),Arterial Road,No,No,40-64,Weekday,Night
+20192229,Vic,3,2019,Thu,08:10,Multiple,No,No,No,50,Passenger,Female,90,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Collector Road,No,No,75+,Weekday,Day
+20192222,Vic,3,2019,Mon,09:20,Single,No,No,No,60,Pedestrian,Male,86,Major Cities of Australia,Melbourne - North West,Moreland (C),Arterial Road,No,No,75+,Weekday,Day
+20192121,Vic,3,2019,Sat,17:56,Single,No,No,No,100,Passenger,Male,31,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Sub-arterial Road,No,No,26-39,Weekend,Day
+20192121,Vic,3,2019,Sat,17:56,Single,No,No,No,100,Passenger,Male,36,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Sub-arterial Road,No,No,26-39,Weekend,Day
+20192047,Vic,3,2019,Sun,10:40,Multiple,No,No,No,100,Driver,Male,78,Inner Regional Australia,Ballarat,Central Goldfields (S),Local Road,No,No,75+,Weekend,Day
+20192019,Vic,3,2019,Mon,06:35,Multiple,No,Yes,No,100,Driver,Male,55,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No,40-64,Weekday,Day
+20192097,Vic,3,2019,Thu,05:42,Multiple,No,No,No,60,Pedal cyclist,Female,50,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),National or State Highway,No,No,40-64,Weekday,Night
+20192144,Vic,3,2019,Fri,00:55,Single,No,No,No,60,Pedestrian,Female,24,Major Cities of Australia,Melbourne - North West,Moreland (C),Arterial Road,No,No,17-25,Weekday,Night
+20192200,Vic,3,2019,Fri,01:10,Single,No,No,No,80,Driver,Female,15,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Arterial Road,No,No,0-16,Weekday,Night
+20192033,Vic,2,2019,Thu,18:00,Multiple,No,No,No,70,Motorcycle rider,Male,28,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Access road,No,No,26-39,Weekday,Night
+20192078,Vic,2,2019,Sun,20:16,Single,No,No,No,100,Driver,Male,25,Inner Regional Australia,Geelong,Golden Plains (S),Sub-arterial Road,No,No,17-25,Weekend,Night
+20192173,Vic,2,2019,Sun,10:50,Multiple,No,No,No,100,Motorcycle rider,Male,57,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Local Road,No,No,40-64,Weekend,Day
+20192201,Vic,2,2019,Sat,15:23,Multiple,No,No,No,80,Driver,Female,89,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Sub-arterial Road,No,No,75+,Weekend,Day
+20192188,Vic,2,2019,Wed,08:00,Multiple,No,No,Yes,100,Motorcycle rider,Male,24,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,17-25,Weekday,Day
+20192124,Vic,2,2019,Sat,02:57,Multiple,No,Yes,No,50,Driver,Male,31,Major Cities of Australia,Melbourne - North East,Darebin (C),Local Road,No,No,26-39,Weekend,Night
+20192102,Vic,2,2019,Wed,15:30,Single,No,No,No,100,Driver,Female,49,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192045,Vic,2,2019,Thu,09:00,Single,No,No,No,-9,Other,Male,60,Inner Regional Australia,Bendigo,Macedon Ranges (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192149,Vic,2,2019,Tue,23:50,Single,No,No,No,-9,Driver,Male,39,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Collector Road,No,No,26-39,Weekday,Night
+20192099,Vic,2,2019,Mon,21:23,Single,No,No,No,80,Driver,Male,45,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No,40-64,Weekday,Night
+20192145,Vic,2,2019,Wed,16:05,Multiple,No,No,Yes,100,Driver,Female,27,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Arterial Road,No,No,26-39,Weekday,Day
+20192049,Vic,2,2019,Thu,14:00,Single,No,No,No,100,Motorcycle rider,Male,68,Outer Regional Australia,Hume,Towong (S),Collector Road,No,No,65-74,Weekday,Day
+20192116,Vic,2,2019,Fri,12:10,Multiple,No,No,No,60,Driver,Male,88,Inner Regional Australia,Bendigo,Greater Bendigo (C),Local Road,No,No,75+,Weekday,Day
+20192001,Vic,2,2019,Sat,02:08,Single,No,No,No,80,Pedestrian,Male,24,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),National or State Highway,No,No,17-25,Weekend,Night
+20192183,Vic,2,2019,Wed,21:39,Multiple,No,No,No,110,Driver,Male,84,Inner Regional Australia,Ballarat,Moorabool (S),National or State Highway,No,No,75+,Weekday,Night
+20192024,Vic,2,2019,Tue,11:52,Single,No,No,No,60,Pedestrian,Male,81,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20192115,Vic,2,2019,Thu,08:20,Single,No,No,No,50,Pedestrian,Female,81,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Local Road,No,No,75+,Weekday,Day
+20192107,Vic,2,2019,Sun,20:40,Multiple,No,No,No,50,Motorcycle rider,Male,26,Major Cities of Australia,Melbourne - West,Wyndham (C),Local Road,No,No,26-39,Weekend,Night
+20192014,Vic,2,2019,Sat,16:35,Multiple,No,No,No,60,Motorcycle rider,Male,24,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,17-25,Weekend,Day
+20192129,Vic,2,2019,Sun,12:00,Multiple,No,No,No,80,Passenger,Female,17,Major Cities of Australia,Melbourne - Outer East,Knox (C),National or State Highway,No,No,17-25,Weekend,Day
+20192232,Vic,2,2019,Sat,17:24,Multiple,No,No,Yes,80,Pedal cyclist,Male,18,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Local Road,No,No,17-25,Weekend,Day
+20192216,Vic,2,2019,Sat,03:00,Single,No,No,No,100,Driver,Male,40,Inner Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No,40-64,Weekend,Night
+20192227,Vic,2,2019,Fri,19:47,Multiple,No,No,No,80,Driver,Male,85,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,75+,Weekend,Night
+20192184,Vic,2,2019,Wed,07:57,Multiple,No,No,No,100,Driver,Female,61,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,40-64,Weekday,Day
+20192196,Vic,2,2019,Mon,16:30,Multiple,No,No,No,100,Motorcycle rider,Male,61,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,40-64,Weekday,Day
+20192013,Vic,2,2019,Tue,22:25,Multiple,No,No,No,100,Driver,Male,34,Inner Regional Australia,Geelong,Greater Geelong (C),Local Road,No,No,26-39,Weekday,Night
+20192013,Vic,2,2019,Tue,22:25,Multiple,No,No,No,100,Driver,Female,63,Inner Regional Australia,Geelong,Greater Geelong (C),Local Road,No,No,40-64,Weekday,Night
+20192148,Vic,2,2019,Wed,16:45,Multiple,No,No,Yes,100,Driver,Female,34,Inner Regional Australia,Bendigo,Loddon (S),Arterial Road,No,No,26-39,Weekday,Day
+20192043,Vic,2,2019,Wed,14:15,Single,No,No,No,100,Passenger,Female,86,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Collector Road,No,No,75+,Weekday,Day
+20192043,Vic,2,2019,Wed,14:15,Single,No,No,No,100,Driver,Male,87,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Collector Road,No,No,75+,Weekday,Day
+20192031,Vic,2,2019,Thu,16:50,Multiple,No,Yes,No,100,Pedal cyclist,Male,15,Inner Regional Australia,Warrnambool and South West,Warrnambool (C),Arterial Road,No,No,0-16,Weekday,Day
+20192018,Vic,2,2019,Thu,19:57,Single,No,No,No,60,Pedestrian,Male,27,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Arterial Road,No,No,26-39,Weekday,Night
+20192153,Vic,2,2019,Mon,06:02,Single,No,Yes,No,50,Pedestrian,Male,86,Major Cities of Australia,Melbourne - Inner,Stonnington (C),Local Road,No,No,75+,Weekday,Day
+20192026,Vic,1,2019,Mon,02:45,Single,No,No,No,100,Driver,Male,64,Inner Regional Australia,Hume,Strathbogie (S),Sub-arterial Road,No,No,40-64,Weekend,Night
+20192242,Vic,1,2019,Sat,14:30,Single,No,No,No,100,Motorcycle rider,Male,59,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Arterial Road,No,No,40-64,Weekend,Day
+20192214,Vic,1,2019,Sun,13:00,Single,No,No,No,80,Motorcycle rider,Male,65,Major Cities of Australia,Melbourne - North East,Nillumbik (S),Sub-arterial Road,No,No,65-74,Weekend,Day
+20192044,Vic,1,2019,Fri,21:27,Single,No,No,No,100,Driver,Male,20,Outer Regional Australia,Hume,Mansfield (S),National or State Highway,No,No,17-25,Weekend,Night
+20192010,Vic,1,2019,Fri,16:07,Multiple,No,No,No,100,Motorcycle rider,Female,47,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,40-64,Weekday,Day
+20192193,Vic,1,2019,Mon,12:50,Multiple,No,No,No,100,Passenger,Female,77,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,75+,Weekday,Day
+20192210,Vic,1,2019,Thu,13:53,Single,No,Yes,No,50,Passenger,Male,55,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Local Road,No,No,40-64,Weekday,Day
+20192164,Vic,1,2019,Mon,12:40,Multiple,No,No,Yes,110,Driver,Male,61,Outer Regional Australia,North West,Buloke (S),National or State Highway,No,No,40-64,Weekday,Day
+20192056,Vic,1,2019,Tue,19:51,Single,No,No,No,50,Motorcycle rider,Male,62,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No,40-64,Weekday,Night
+20192066,Vic,1,2019,Sun,18:10,Single,No,No,No,50,Pedestrian,Male,1,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No,0-16,Weekend,Night
+20192205,Vic,1,2019,Thu,03:00,Single,No,No,Yes,80,Pedestrian,Male,20,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No,17-25,Weekday,Night
+20192195,Vic,1,2019,Sun,21:30,Multiple,No,No,No,100,Motorcycle rider,Male,20,Outer Regional Australia,Warrnambool and South West,Glenelg (S),National or State Highway,No,No,17-25,Weekend,Night
+20192096,Vic,1,2019,Sun,07:00,Single,No,No,No,60,Motorcycle rider,Male,52,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No,40-64,Weekend,Day
+20192180,Vic,1,2019,Sun,17:30,Multiple,No,No,No,60,Passenger,Female,84,Major Cities of Australia,Melbourne - North East,Banyule (C),Local Road,No,No,75+,Weekend,Day
+20192074,Vic,1,2019,Thu,11:25,Single,No,No,No,110,Passenger,Female,19,Inner Regional Australia,Ballarat,Moorabool (S),National or State Highway,No,No,17-25,Weekday,Day
+20192060,Vic,1,2019,Thu,15:55,Single,No,No,No,80,Driver,Male,38,Major Cities of Australia,Melbourne - West,Melton (C),Collector Road,No,No,26-39,Weekday,Day
+20192091,Vic,1,2019,Fri,14:30,Single,No,No,No,110,Motorcycle rider,Male,41,Inner Regional Australia,Ballarat,Moorabool (S),National or State Highway,No,No,40-64,Weekday,Day
+20192223,Vic,1,2019,Thu,14:40,Single,No,No,No,100,Motorcycle rider,Male,57,Inner Regional Australia,Shepparton,Campaspe (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20192221,Vic,1,2019,Wed,19:30,Multiple,No,No,Yes,100,Passenger,Female,16,Outer Regional Australia,Warrnambool and South West,Glenelg (S),National or State Highway,No,No,0-16,Weekday,Night
+20192211,Vic,1,2019,Thu,18:50,Single,No,No,No,110,Motorcycle rider,Male,51,Outer Regional Australia,North West,Mildura (RC),National or State Highway,No,No,40-64,Weekday,Night
+20192061,Vic,1,2019,Wed,14:35,Multiple,No,Yes,No,80,Driver,Male,78,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Local Road,No,No,75+,Weekday,Day
+20192112,Vic,1,2019,Fri,03:30,Single,No,No,No,100,Driver,Female,26,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,26-39,Weekday,Night
+20182017,Vic,12,2018,Mon,02:30,Pedestrian,No,No,No,80,Pedestrian,Male,20,Major Cities of Australia,Mornington Peninsula,Frankston (C),Arterial Road,Yes,No,17-25,Weekend,Night
+20182199,Vic,12,2018,Sat,17:45,Single,No,No,No,100,Driver,Male,52,Inner Regional Australia,Ballarat,Golden Plains (S),National or State Highway,Yes,No,40-64,Weekend,Day
+20182081,Vic,12,2018,Wed,12:53,Pedestrian,No,No,No,60,Pedestrian,Female,89,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Sub-arterial Road,Yes,No,75+,Weekday,Day
+20182049,Vic,12,2018,Mon,19:00,Single,No,No,No,100,Passenger,Female,51,Inner Regional Australia,Ballarat,Pyrenees (S),Sub-arterial Road,Yes,No,40-64,Weekday,Night
+20182155,Vic,12,2018,Mon,20:45,Multiple,No,No,No,60,Pedal cyclist,Male,43,Inner Regional Australia,Warrnambool and South West,Warrnambool (C),Collector Road,Yes,No,40-64,Weekday,Night
+20182073,Vic,12,2018,Sat,03:15,Pedestrian,No,No,No,60,Pedestrian,Male,32,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No,26-39,Weekend,Night
+20182022,Vic,12,2018,Fri,22:30,Pedestrian,No,No,No,100,Pedestrian,Male,29,Inner Regional Australia,Melbourne - South East,Cardinia (S),National or State Highway,No,No,26-39,Weekend,Night
+20182178,Vic,12,2018,Wed,06:20,Multiple,No,No,No,100,Driver,Male,60,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,40-64,Weekday,Day
+20182113,Vic,12,2018,Mon,01:30,Multiple,No,No,No,60,Passenger,Female,21,Inner Regional Australia,Bendigo,Greater Bendigo (C),Collector Road,No,No,17-25,Weekend,Night
+20182094,Vic,12,2018,Mon,18:55,Multiple,No,No,No,50,Driver,Male,52,Outer Regional Australia,North West,Horsham (RC),Local Road,No,No,40-64,Weekday,Night
+20182159,Vic,12,2018,Sat,20:45,Single,No,No,No,80,Passenger,Male,27,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,26-39,Weekend,Night
+20182159,Vic,12,2018,Sat,20:45,Single,No,No,No,80,Driver,Male,27,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,26-39,Weekend,Night
+20182019,Vic,12,2018,Wed,19:36,Pedestrian,Yes,No,No,80,Pedestrian,Male,39,Major Cities of Australia,Melbourne - Outer East,Knox (C),National or State Highway,No,No,26-39,Weekday,Night
+20182110,Vic,12,2018,Wed,20:58,Single,No,No,No,50,Driver,Female,74,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Collector Road,No,No,65-74,Weekday,Night
+20182071,Vic,12,2018,Sun,04:30,Multiple,No,No,Yes,100,Driver,Male,20,Outer Regional Australia,Warrnambool and South West,Glenelg (S),National or State Highway,No,No,17-25,Weekend,Night
+20182035,Vic,12,2018,Tue,18:26,Multiple,No,No,No,100,Pedal cyclist,Male,65,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,65-74,Weekday,Night
+20182106,Vic,12,2018,Sun,11:00,Multiple,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Melbourne - North West,Moreland (C),Local Road,No,No,17-25,Weekend,Day
+20182002,Vic,11,2018,Fri,23:35,Multiple,No,No,No,80,Motorcycle rider,Male,51,Major Cities of Australia,Melbourne - Inner South,Bayside (C),National or State Highway,No,No,40-64,Weekend,Night
+20182075,Vic,11,2018,Wed,18:27,Pedestrian,No,No,No,60,Pedestrian,Female,8,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Arterial Road,No,No,0-16,Weekday,Night
+20182090,Vic,11,2018,Sun,02:08,Multiple,No,No,No,60,Passenger,Male,20,Major Cities of Australia,Melbourne - North West,Hume (C),Local Road,No,No,17-25,Weekend,Night
+20182095,Vic,11,2018,Sat,20:14,Multiple,No,No,No,80,Passenger,Female,20,Inner Regional Australia,Ballarat,Ballarat (C),Sub-arterial Road,No,No,17-25,Weekend,Night
+20182158,Vic,11,2018,Thu,14:15,Multiple,No,No,No,100,Driver,Male,87,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,75+,Weekday,Day
+20182158,Vic,11,2018,Thu,14:15,Multiple,No,No,No,100,Driver,Female,80,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,75+,Weekday,Day
+20182040,Vic,11,2018,Wed,17:40,Single,No,No,No,100,Motorcycle rider,Male,26,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Access road,No,No,26-39,Weekday,Day
+20182029,Vic,11,2018,Tue,14:16,Multiple,No,Yes,No,60,Pedal cyclist,Female,28,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Arterial Road,No,No,26-39,Weekday,Day
+20182116,Vic,11,2018,Mon,10:25,Pedestrian,No,No,No,60,Pedestrian,Male,92,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20182063,Vic,11,2018,Sun,20:55,Pedestrian,No,No,No,40,Pedestrian,Male,73,Major Cities of Australia,Melbourne - Inner,Stonnington (C),Sub-arterial Road,No,No,65-74,Weekend,Night
+20182099,Vic,11,2018,Sun,11:55,Single,No,No,No,80,Motorcycle pillion passenger,Female,61,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,40-64,Weekend,Day
+20182136,Vic,11,2018,Sun,14:00,Single,No,No,No,100,Driver,Male,51,Outer Regional Australia,Bendigo,Loddon (S),Local Road,No,No,40-64,Weekend,Day
+20182146,Vic,11,2018,Sat,23:05,Pedestrian,No,No,No,80,Pedestrian,Male,21,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-arterial Road,No,No,17-25,Weekend,Night
+20182037,Vic,11,2018,Sat,13:03,Single,No,No,No,80,Motorcycle rider,Male,72,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,65-74,Weekend,Day
+20182020,Vic,11,2018,Sat,22:42,Multiple,No,No,No,80,Driver,Male,65,Major Cities of Australia,Melbourne - Outer East,Knox (C),National or State Highway,No,No,65-74,Weekend,Night
+20182181,Vic,11,2018,Fri,13:30,Single,No,No,No,100,Motorcycle rider,Male,62,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No,40-64,Weekday,Day
+20182009,Vic,11,2018,Sun,02:49,Single,No,No,No,-9,Driver,Male,54,Inner Regional Australia,Geelong,Surf Coast (S),Access road,No,No,40-64,Weekend,Night
+20182056,Vic,11,2018,Sun,16:15,Single,No,No,No,100,Motorcycle rider,Male,29,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,26-39,Weekend,Day
+20182072,Vic,11,2018,Tue,18:55,Single,No,No,No,100,Driver,Male,82,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Local Road,No,No,75+,Weekday,Night
+20182163,Vic,11,2018,Sat,09:32,Single,No,No,No,60,Motorcycle rider,Male,37,Major Cities of Australia,Melbourne - North East,Nillumbik (S),Sub-arterial Road,No,No,26-39,Weekend,Day
+20182004,Vic,11,2018,Fri,21:48,Multiple,No,No,Yes,100,Passenger,Male,12,Inner Regional Australia,Hume,Wangaratta (RC),National or State Highway,No,No,0-16,Weekend,Night
+20182004,Vic,11,2018,Fri,21:48,Multiple,No,No,Yes,100,Driver,Female,37,Inner Regional Australia,Hume,Wangaratta (RC),National or State Highway,No,No,26-39,Weekend,Night
+20182023,Vic,11,2018,Fri,06:50,Multiple,No,No,No,80,Motorcycle rider,Male,28,Major Cities of Australia,Melbourne - South East,Cardinia (S),National or State Highway,No,No,26-39,Weekday,Day
+20182164,Vic,10,2018,Wed,14:45,Multiple,No,No,No,80,Driver,Male,42,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,40-64,Weekday,Day
+20182191,Vic,10,2018,Mon,15:44,Multiple,No,No,Yes,70,Driver,Male,43,Major Cities of Australia,Melbourne - West,Wyndham (C),Arterial Road,No,No,40-64,Weekday,Day
+20182152,Vic,10,2018,Sun,14:20,Multiple,No,No,No,80,Driver,Male,32,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,26-39,Weekend,Day
+20182079,Vic,10,2018,Sat,23:30,Single,No,No,No,100,Driver,Male,36,Inner Regional Australia,Warrnambool and South West,Warrnambool (C),Access road,No,No,26-39,Weekend,Night
+20182084,Vic,10,2018,Sat,05:20,Single,No,No,No,100,Driver,Male,25,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National or State Highway,No,No,17-25,Weekend,Night
+20182148,Vic,10,2018,Sat,12:50,Single,No,No,No,100,Motorcycle rider,Male,68,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,65-74,Weekend,Day
+20182186,Vic,10,2018,Fri,17:45,Single,No,No,No,60,Other,Female,86,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Collector Road,No,No,75+,Weekday,Day
+20182129,Vic,10,2018,Sun,20:58,Multiple,No,No,No,80,Motorcycle rider,Male,22,Major Cities of Australia,Melbourne - South East,Monash (C),Local Road,No,No,17-25,Weekend,Night
+20182044,Vic,10,2018,Sun,05:30,Pedestrian,No,No,No,80,Pedestrian,Male,36,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National or State Highway,No,No,26-39,Weekend,Night
+20182102,Vic,10,2018,Sun,13:12,Single,No,No,No,100,Passenger,Female,28,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Sub-arterial Road,No,No,26-39,Weekend,Day
+20182041,Vic,10,2018,Mon,15:30,Multiple,No,No,No,100,Passenger,Female,7,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Arterial Road,No,No,0-16,Weekday,Day
+20182166,Vic,10,2018,Fri,10:50,Single,No,No,No,80,Passenger,Female,74,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),National or State Highway,No,No,65-74,Weekday,Day
+20182031,Vic,10,2018,Thu,16:12,Multiple,No,No,No,60,Motorcycle rider,Male,28,Inner Regional Australia,Ballarat,Ballarat (C),Sub-arterial Road,No,No,26-39,Weekday,Day
+20182120,Vic,10,2018,Wed,12:10,Multiple,No,No,No,80,Driver,Male,74,Major Cities of Australia,Melbourne - West,Hobsons Bay (C),National or State Highway,No,No,65-74,Weekday,Day
+20182026,Vic,10,2018,Sun,10:45,Multiple,No,No,No,100,Driver,Female,41,Outer Regional Australia,North West,Gannawarra (S),National or State Highway,No,No,40-64,Weekend,Day
+20182026,Vic,10,2018,Sun,10:45,Multiple,No,No,No,100,Driver,Male,75,Outer Regional Australia,North West,Gannawarra (S),National or State Highway,No,No,75+,Weekend,Day
+20182100,Vic,10,2018,Sat,05:21,Single,No,No,No,80,Driver,Female,25,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),National or State Highway,No,No,17-25,Weekend,Night
+20182132,Vic,10,2018,Sat,11:35,Multiple,No,No,No,100,Motorcycle rider,Male,62,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,40-64,Weekend,Day
+20182161,Vic,10,2018,Fri,15:30,Single,No,No,No,100,Driver,Male,25,Inner Regional Australia,Hume,Benalla (RC),Sub-arterial Road,No,No,17-25,Weekday,Day
+20182119,Vic,10,2018,Wed,09:20,Single,No,No,No,100,Driver,Male,33,Inner Regional Australia,Hume,Benalla (RC),Local Road,No,No,26-39,Weekday,Day
+20182192,Vic,10,2018,Mon,16:30,Pedestrian,No,Yes,No,60,Pedestrian,Female,69,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Arterial Road,No,No,65-74,Weekday,Day
+20182080,Vic,9,2018,Sat,22:49,Single,No,No,No,80,Driver,Male,20,Inner Regional Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,17-25,Weekend,Night
+20182111,Vic,9,2018,Sat,17:05,Single,No,No,No,50,Motorcycle rider,Male,44,Inner Regional Australia,Hume,Murrindindi (S),National or State Highway,No,No,40-64,Weekend,Day
+20182092,Vic,9,2018,Fri,01:31,Single,No,No,No,100,Driver,Male,31,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Sub-arterial Road,No,No,26-39,Weekday,Night
+20182021,Vic,9,2018,Mon,22:03,Pedestrian,No,No,No,80,Pedestrian,Female,27,Major Cities of Australia,Melbourne - Outer East,Knox (C),Collector Road,No,No,26-39,Weekday,Night
+20182177,Vic,9,2018,Mon,22:00,Multiple,No,No,No,80,Motorcycle rider,Male,37,Major Cities of Australia,Melbourne - Outer East,Knox (C),Collector Road,No,No,26-39,Weekday,Night
+20182142,Vic,9,2018,Tue,07:19,Pedestrian,No,Yes,No,100,Pedestrian,Male,34,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,No,26-39,Weekday,Day
+20182160,Vic,9,2018,Tue,15:05,Single,No,No,No,100,Passenger,Female,48,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No,40-64,Weekday,Day
+20182082,Vic,9,2018,Tue,13:12,Multiple,No,No,No,80,Driver,Male,75,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,75+,Weekday,Day
+20182167,Vic,9,2018,Fri,07:00,Single,No,No,No,100,Driver,Male,31,Outer Regional Australia,Latrobe - Gippsland,South Gippsland (S),Local Road,No,No,26-39,Weekday,Day
+20182069,Vic,9,2018,Fri,14:20,Multiple,No,No,No,100,Motorcycle rider,Male,59,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,40-64,Weekday,Day
+20182149,Vic,9,2018,Fri,12:40,Single,No,No,No,100,Motorcycle rider,Male,65,Inner Regional Australia,Hume,Murrindindi (S),Sub-arterial Road,No,No,65-74,Weekday,Day
+20182176,Vic,9,2018,Fri,13:12,Multiple,No,No,No,80,Driver,Female,77,Outer Regional Australia,Hume,Mansfield (S),Local Road,No,No,75+,Weekday,Day
+20182038,Vic,9,2018,Thu,10:20,Single,No,No,No,100,Driver,Female,72,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Access road,No,No,65-74,Weekday,Day
+20182135,Vic,9,2018,Tue,10:46,Multiple,No,No,Yes,60,Passenger,Female,80,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Arterial Road,No,No,75+,Weekday,Day
+20182118,Vic,9,2018,Mon,18:20,Multiple,No,No,No,80,Driver,Male,38,Major Cities of Australia,Melbourne - North West,Hume (C),Local Road,No,No,26-39,Weekday,Night
+20182068,Vic,9,2018,Thu,07:20,Single,No,Yes,No,50,Passenger,Female,49,Major Cities of Australia,Melbourne - Outer East,Manningham (C),Local Road,No,No,40-64,Weekday,Day
+20182088,Vic,9,2018,Tue,05:50,Single,No,No,No,80,Driver,Male,37,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No,26-39,Weekday,Night
+20182012,Vic,9,2018,Tue,11:15,Single,No,No,No,100,Driver,Male,83,Inner Regional Australia,Hume,Wangaratta (RC),Arterial Road,No,No,75+,Weekday,Day
+20182130,Vic,9,2018,Mon,12:26,Pedestrian,No,No,No,50,Pedestrian,Male,86,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,75+,Weekday,Day
+20182046,Vic,8,2018,Tue,04:15,Single,No,No,No,80,Driver,Male,25,Inner Regional Australia,Ballarat,Hepburn (S),Arterial Road,No,No,17-25,Weekday,Night
+20182018,Vic,8,2018,Mon,18:45,Multiple,No,No,No,-9,Driver,Male,70,Inner Regional Australia,Ballarat,Golden Plains (S),Arterial Road,No,No,65-74,Weekday,Night
+20182025,Vic,8,2018,Sat,19:50,Single,No,No,No,80,Driver,Male,38,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,26-39,Weekend,Night
+20182078,Vic,8,2018,Fri,15:05,Multiple,No,No,No,100,Driver,Female,32,Inner Regional Australia,Shepparton,Campaspe (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20182087,Vic,8,2018,Wed,17:00,Single,No,No,No,50,Driver,Male,38,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Collector Road,No,No,26-39,Weekday,Day
+20182180,Vic,8,2018,Tue,21:30,Single,No,No,No,100,Driver,Male,36,Outer Regional Australia,Hume,Alpine (S),Access road,No,No,26-39,Weekday,Night
+20182190,Vic,8,2018,Tue,17:28,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Melbourne - South East,Cardinia (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20182030,Vic,8,2018,Tue,10:35,Multiple,No,No,No,100,Passenger,Male,92,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,75+,Weekday,Day
+20182030,Vic,8,2018,Tue,10:35,Multiple,No,No,No,100,Driver,Female,86,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,75+,Weekday,Day
+20182172,Vic,8,2018,Sat,18:26,Pedestrian,No,No,No,60,Pedestrian,Male,10,Major Cities of Australia,Melbourne - Inner East,Whitehorse (C),Sub-arterial Road,No,No,0-16,Weekend,Night
+20182060,Vic,8,2018,Wed,18:20,Pedestrian,No,No,No,70,Pedestrian,Male,26,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,26-39,Weekday,Night
+20182036,Vic,8,2018,Sun,09:58,Multiple,No,No,No,40,Pedal cyclist,Female,27,Major Cities of Australia,Melbourne - Inner,Stonnington (C),Sub-arterial Road,No,No,26-39,Weekend,Day
+20182137,Vic,8,2018,Sat,13:25,Multiple,No,No,No,100,Driver,Male,53,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,40-64,Weekend,Day
+20182188,Vic,8,2018,Tue,06:50,Multiple,No,No,No,60,Motorcycle rider,Male,36,Major Cities of Australia,Melbourne - West,Melton (C),Collector Road,No,No,26-39,Weekday,Day
+20182193,Vic,8,2018,Sat,19:15,Multiple,No,No,No,70,Motorcycle rider,Male,21,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Local Road,No,No,17-25,Weekend,Night
+20182125,Vic,8,2018,Sat,00:50,Single,No,No,No,80,Passenger,Male,12,Inner Regional Australia,Shepparton,Greater Shepparton (C),Collector Road,No,No,0-16,Weekend,Night
+20182096,Vic,8,2018,Sat,05:00,Multiple,No,No,No,100,Driver,Female,31,Major Cities of Australia,Melbourne - West,Melton (C),National or State Highway,No,No,26-39,Weekend,Night
+20182131,Vic,8,2018,Wed,16:45,Multiple,No,No,No,70,Pedal cyclist,Male,43,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20182183,Vic,7,2018,Mon,23:49,Single,No,No,No,60,Driver,Male,23,Major Cities of Australia,Melbourne - North West,Hume (C),Arterial Road,No,No,17-25,Weekday,Night
+20182124,Vic,7,2018,Thu,00:29,Multiple,No,No,Yes,80,Motorcycle rider,Male,30,Major Cities of Australia,Melbourne - West,Hobsons Bay (C),National or State Highway,No,No,26-39,Weekday,Night
+20182033,Vic,7,2018,Wed,19:30,Multiple,No,No,Yes,100,Driver,Female,71,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,65-74,Weekday,Night
+20182070,Vic,7,2018,Tue,18:15,Pedestrian,No,No,No,50,Pedestrian,Male,46,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Local Road,No,No,40-64,Weekday,Night
+20182156,Vic,7,2018,Fri,06:10,Pedestrian,Yes,No,No,-9,Pedestrian,Female,61,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Local Road,No,No,40-64,Weekday,Day
+20182003,Vic,7,2018,Fri,09:55,Multiple,No,No,No,80,Driver,Male,71,Inner Regional Australia,Ballarat,Hepburn (S),Arterial Road,No,No,65-74,Weekday,Day
+20182065,Vic,7,2018,Wed,16:40,Multiple,No,No,No,80,Passenger,Male,42,Major Cities of Australia,Geelong,Greater Geelong (C),National or State Highway,No,No,40-64,Weekday,Day
+20182008,Vic,7,2018,Tue,09:40,Pedestrian,No,No,No,60,Pedestrian,Male,84,Major Cities of Australia,Melbourne - North East,Banyule (C),Access road,No,No,75+,Weekday,Day
+20182109,Vic,7,2018,Mon,11:26,Single,No,No,No,100,Driver,Female,60,Inner Regional Australia,Hume,Alpine (S),National or State Highway,No,No,40-64,Weekday,Day
+20182098,Vic,7,2018,Sun,22:16,Single,No,No,No,80,Motorcycle rider,Male,32,Major Cities of Australia,Melbourne - Inner,Melbourne (C),National or State Highway,No,No,26-39,Weekend,Night
+20182196,Vic,7,2018,Fri,14:30,Multiple,No,No,No,100,Driver,Female,55,Inner Regional Australia,Hume,Strathbogie (S),Arterial Road,No,No,40-64,Weekday,Day
+20182127,Vic,7,2018,Sun,00:01,Multiple,No,No,No,80,Passenger,Male,4,Major Cities of Australia,Melbourne - West,Melton (C),Arterial Road,No,No,0-16,Weekend,Night
+20182127,Vic,7,2018,Sun,00:01,Multiple,No,No,No,80,Passenger,Female,10,Major Cities of Australia,Melbourne - West,Melton (C),Arterial Road,No,No,0-16,Weekend,Night
+20182165,Vic,7,2018,Sun,09:50,Pedestrian,No,No,No,50,Pedestrian,Male,53,Inner Regional Australia,Hume,Murrindindi (S),Local Road,No,No,40-64,Weekend,Day
+20182010,Vic,7,2018,Thu,12:57,Multiple,No,No,No,110,Driver,Male,49,Inner Regional Australia,Ballarat,Ararat (RC),National or State Highway,No,No,40-64,Weekday,Day
+20182032,Vic,6,2018,Wed,13:48,Multiple,No,No,Yes,100,Driver,Male,36,Inner Regional Australia,Shepparton,Moira (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20182105,Vic,6,2018,Wed,19:45,Multiple,No,No,No,50,Driver,Female,79,Major Cities of Australia,Melbourne - South East,Monash (C),Local Road,No,No,75+,Weekday,Night
+20182076,Vic,6,2018,Sat,08:50,Pedestrian,No,No,No,60,Pedestrian,Male,80,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Sub-arterial Road,No,No,75+,Weekend,Day
+20182047,Vic,6,2018,Thu,17:50,Multiple,No,No,No,100,Driver,Male,39,Inner Regional Australia,Melbourne - West,Wyndham (C),Arterial Road,No,No,26-39,Weekday,Day
+20182074,Vic,6,2018,Wed,15:30,Multiple,Yes,No,No,100,Driver,Male,34,Inner Regional Australia,Ballarat,Hepburn (S),National or State Highway,No,No,26-39,Weekday,Day
+20182086,Vic,6,2018,Mon,01:30,Multiple,No,No,No,-9,Passenger,Male,25,Major Cities of Australia,Melbourne - Inner,Stonnington (C),Sub-arterial Road,No,No,17-25,Weekend,Night
+20182014,Vic,6,2018,Mon,11:10,Multiple,No,No,No,100,Motorcycle rider,Male,56,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,40-64,Weekday,Day
+20182117,Vic,6,2018,Mon,10:30,Multiple,No,Yes,No,100,Pedal cyclist,Male,61,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),National or State Highway,No,No,40-64,Weekday,Day
+20182145,Vic,6,2018,Sun,19:00,Single,No,No,No,100,Driver,Male,52,Inner Regional Australia,North West,Northern Grampians (S),Arterial Road,No,No,40-64,Weekend,Night
+20182005,Vic,6,2018,Fri,05:16,Pedestrian,No,No,No,70,Pedestrian,Male,24,Major Cities of Australia,Melbourne - West,Maribyrnong (C),National or State Highway,No,No,17-25,Weekday,Night
+20182153,Vic,6,2018,Fri,07:11,Pedestrian,No,No,No,60,Pedestrian,Male,69,Major Cities of Australia,Melbourne - Inner,Moreland (C),Arterial Road,No,No,65-74,Weekday,Day
+20182201,Vic,6,2018,Wed,11:50,Multiple,No,No,No,100,Driver,Male,29,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No,26-39,Weekday,Day
+20182077,Vic,5,2018,Sat,05:45,Single,No,No,Yes,100,Driver,Male,50,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,40-64,Weekend,Night
+20182053,Vic,5,2018,Fri,13:35,Multiple,No,No,Yes,100,Driver,Male,57,Inner Regional Australia,Shepparton,Moira (S),Local Road,No,No,40-64,Weekday,Day
+20182179,Vic,5,2018,Thu,13:00,Single,No,No,No,100,Driver,Male,46,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20182114,Vic,5,2018,Mon,14:38,Single,No,No,No,70,Driver,Male,23,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Arterial Road,No,No,17-25,Weekday,Day
+20182151,Vic,5,2018,Mon,06:50,Pedestrian,No,No,No,60,Pedestrian,Male,83,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,75+,Weekday,Day
+20182001,Vic,5,2018,Wed,21:00,Single,No,No,No,100,Driver,Male,30,Inner Regional Australia,Bendigo,Greater Bendigo (C),Local Road,No,No,26-39,Weekday,Night
+20182108,Vic,5,2018,Wed,07:00,Pedestrian,No,Yes,No,80,Pedestrian,Female,14,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),National or State Highway,No,No,0-16,Weekday,Day
+20182128,Vic,5,2018,Tue,11:55,Multiple,No,Yes,No,100,Driver,Male,78,Major Cities of Australia,Melbourne - South East,Cardinia (S),National or State Highway,No,No,75+,Weekday,Day
+20182062,Vic,5,2018,Thu,22:45,Single,No,No,No,80,Motorcycle rider,Male,19,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,17-25,Weekday,Night
+20182175,Vic,5,2018,Thu,11:40,Multiple,No,No,No,60,Driver,Male,83,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,75+,Weekday,Day
+20182051,Vic,5,2018,Wed,14:38,Multiple,No,No,No,100,Driver,Male,57,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20182042,Vic,5,2018,Wed,11:45,Pedestrian,No,No,No,40,Pedestrian,Male,78,Inner Regional Australia,Ballarat,Ballarat (C),Collector Road,No,No,75+,Weekday,Day
+20182024,Vic,5,2018,Sun,02:35,Single,No,No,No,100,Driver,Male,24,Inner Regional Australia,Melbourne - North East,Mitchell (S),Collector Road,No,No,17-25,Weekend,Night
+20182015,Vic,5,2018,Sun,12:00,Pedestrian,No,No,No,60,Pedestrian,Male,61,Major Cities of Australia,Melbourne - North West,Brimbank (C),Arterial Road,No,No,40-64,Weekend,Day
+20182050,Vic,5,2018,Sat,02:30,Single,No,No,No,80,Passenger,Female,41,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),National or State Highway,No,No,40-64,Weekend,Night
+20182182,Vic,5,2018,Sat,22:30,Single,No,No,No,80,Driver,Male,34,Outer Regional Australia,Hume,Alpine (S),National or State Highway,No,No,26-39,Weekend,Night
+20182045,Vic,5,2018,Sat,14:03,Multiple,Yes,No,No,50,Motorcycle rider,Male,58,Major Cities of Australia,Melbourne - North East,Darebin (C),Local Road,No,No,40-64,Weekend,Day
+20182173,Vic,5,2018,Sat,18:05,Multiple,No,No,No,80,Passenger,Female,64,Outer Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No,40-64,Weekend,Night
+20182173,Vic,5,2018,Sat,18:05,Multiple,No,No,No,80,Passenger,Female,71,Outer Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No,65-74,Weekend,Night
+20182173,Vic,5,2018,Sat,18:05,Multiple,No,No,No,80,Passenger,Female,74,Outer Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No,65-74,Weekend,Night
+20182173,Vic,5,2018,Sat,18:05,Multiple,No,No,No,80,Driver,Female,75,Outer Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No,75+,Weekend,Night
+20182150,Vic,5,2018,Wed,23:20,Multiple,No,No,No,80,Motorcycle rider,Male,32,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,26-39,Weekday,Night
+20182144,Vic,5,2018,Tue,11:58,Multiple,No,Yes,No,80,Motorcycle rider,Male,54,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,40-64,Weekday,Day
+20182048,Vic,4,2018,Sun,16:12,Pedestrian,No,No,No,60,Pedestrian,Female,68,Major Cities of Australia,Melbourne - North West,Hume (C),Collector Road,No,No,65-74,Weekend,Day
+20182052,Vic,4,2018,Wed,10:15,Multiple,No,No,No,100,Motorcycle rider,Male,51,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20182197,Vic,4,2018,Mon,17:35,Single,No,No,No,110,Driver,Male,40,Inner Regional Australia,Hume,Benalla (RC),National or State Highway,No,No,40-64,Weekday,Day
+20182058,Vic,4,2018,Mon,16:10,Multiple,No,No,No,50,Driver,Male,89,Major Cities of Australia,Melbourne - North East,Whittlesea (C),National or State Highway,No,No,75+,Weekday,Day
+20182011,Vic,4,2018,Sat,01:11,Multiple,No,No,No,80,Passenger,Male,38,Major Cities of Australia,Melbourne - Outer East,Knox (C),Arterial Road,No,No,26-39,Weekend,Night
+20182011,Vic,4,2018,Sat,01:11,Multiple,No,No,No,80,Driver,Female,32,Major Cities of Australia,Melbourne - Outer East,Knox (C),Arterial Road,No,No,26-39,Weekend,Night
+20182006,Vic,4,2018,Wed,18:20,Pedestrian,No,No,No,50,Pedestrian,Female,92,Major Cities of Australia,Melbourne - West,Brimbank (C),Collector Road,No,No,75+,Weekday,Night
+20182104,Vic,4,2018,Thu,09:20,Multiple,No,No,Yes,100,Driver,Female,56,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,40-64,Weekday,Day
+20182140,Vic,4,2018,Thu,13:09,Pedestrian,No,No,No,80,Pedestrian,Female,59,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National or State Highway,No,No,40-64,Weekday,Day
+20182115,Vic,3,2018,Sat,14:50,Multiple,No,No,No,100,Motorcycle rider,Male,56,Inner Regional Australia,Hume,Murrindindi (S),Sub-arterial Road,No,Yes,40-64,Weekend,Day
+20182016,Vic,3,2018,Wed,09:25,Pedestrian,Yes,No,No,40,Pedestrian,Female,96,Major Cities of Australia,Melbourne - North East,Banyule (C),Collector Road,No,No,75+,Weekday,Day
+20182126,Vic,3,2018,Tue,17:30,Multiple,No,No,No,50,Driver,Male,19,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Sub-arterial Road,No,No,17-25,Weekday,Day
+20182039,Vic,3,2018,Fri,15:14,Multiple,No,No,No,60,Driver,Male,74,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Arterial Road,No,No,65-74,Weekday,Day
+20182091,Vic,3,2018,Fri,14:00,Pedestrian,No,No,No,60,Pedestrian,Male,81,Major Cities of Australia,Melbourne - North East,Nillumbik (S),Arterial Road,No,No,75+,Weekday,Day
+20182007,Vic,3,2018,Wed,18:05,Single,No,No,No,100,Driver,Female,68,Outer Regional Australia,North West,Gannawarra (S),Arterial Road,No,No,65-74,Weekday,Night
+20182169,Vic,3,2018,Mon,14:29,Multiple,No,No,No,110,Motorcycle rider,Male,32,Major Cities of Australia,Melbourne - West,Melton (C),National or State Highway,No,No,26-39,Weekday,Day
+20182162,Vic,3,2018,Sat,05:20,Single,No,No,No,60,Driver,Male,26,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No,26-39,Weekend,Night
+20182121,Vic,3,2018,Wed,15:00,Multiple,No,No,Yes,60,Passenger,Female,56,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No,40-64,Weekday,Day
+20182057,Vic,3,2018,Mon,06:50,Single,No,No,No,100,Passenger,Male,20,Outer Regional Australia,North West,Swan Hill (RC),Local Road,No,No,17-25,Weekday,Day
+20182085,Vic,3,2018,Mon,16:50,Multiple,No,No,Yes,100,Motorcycle rider,Male,54,Inner Regional Australia,Geelong,Surf Coast (S),National or State Highway,No,No,40-64,Weekday,Day
+20182061,Vic,3,2018,Sat,01:15,Single,No,No,No,100,Driver,Male,66,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,65-74,Weekend,Night
+20182112,Vic,3,2018,Fri,03:30,Single,No,No,No,100,Driver,Male,19,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,17-25,Weekday,Night
+20182067,Vic,3,2018,Fri,07:30,Multiple,No,Yes,No,60,Passenger,Female,19,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,17-25,Weekday,Day
+20182054,Vic,3,2018,Fri,13:05,Single,No,No,No,100,Motorcycle rider,Male,60,Outer Regional Australia,Hume,Wangaratta (RC),Arterial Road,No,No,40-64,Weekday,Day
+20182034,Vic,3,2018,Thu,10:20,Pedestrian,No,No,No,70,Pedestrian,Male,86,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Arterial Road,No,No,75+,Weekday,Day
+20182064,Vic,3,2018,Wed,11:15,Single,No,No,No,100,Driver,Male,42,Inner Regional Australia,Hume,Indigo (S),Arterial Road,No,No,40-64,Weekday,Day
+20182089,Vic,3,2018,Tue,06:45,Multiple,No,No,No,100,Driver,Male,26,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No,26-39,Weekday,Day
+20182138,Vic,3,2018,Sat,02:30,Pedestrian,No,No,No,40,Pedestrian,Male,62,Major Cities of Australia,Melbourne - North West,Hume (C),Local Road,No,No,40-64,Weekend,Night
+20182174,Vic,3,2018,Fri,11:05,Multiple,No,No,No,50,Motorcycle rider,Male,31,Major Cities of Australia,Melbourne - West,Brimbank (C),Local Road,No,No,26-39,Weekday,Day
+20182122,Vic,3,2018,Thu,23:30,Single,No,No,No,80,Driver,Male,37,Major Cities of Australia,Mornington Peninsula,Frankston (C),Sub-arterial Road,No,No,26-39,Weekday,Night
+20182133,Vic,2,2018,Mon,21:55,Pedestrian,No,No,No,60,Pedestrian,Male,25,Major Cities of Australia,Melbourne - North West,Hume (C),Sub-arterial Road,No,No,17-25,Weekday,Night
+20182147,Vic,2,2018,Thu,15:25,Single,No,No,No,80,Motorcycle rider,Male,52,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No,40-64,Weekday,Day
+20182189,Vic,2,2018,Thu,16:00,Pedestrian,No,No,No,40,Pedestrian,Female,69,Major Cities of Australia,Melbourne - Inner,Yarra (C),Local Road,No,No,65-74,Weekday,Day
+20182168,Vic,2,2018,Wed,08:35,Single,No,No,No,100,Passenger,Female,15,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,0-16,Weekday,Day
+20182194,Vic,2,2018,Sun,18:40,Multiple,No,No,No,100,Driver,Female,64,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,40-64,Weekend,Night
+20182143,Vic,2,2018,Sun,12:50,Multiple,No,No,No,50,Motorcycle rider,Male,30,Inner Regional Australia,Melbourne - South East,Cardinia (S),Access road,No,No,26-39,Weekend,Day
+20182123,Vic,2,2018,Sat,21:05,Multiple,No,No,No,60,Driver,Male,37,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No,26-39,Weekend,Night
+20182066,Vic,2,2018,Fri,05:50,Multiple,No,No,Yes,80,Driver,Male,65,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),National or State Highway,No,No,65-74,Weekday,Night
+20182101,Vic,2,2018,Thu,11:07,Multiple,No,No,No,80,Driver,Female,27,Major Cities of Australia,Melbourne - Outer East,Knox (C),Arterial Road,No,No,26-39,Weekday,Day
+20182093,Vic,2,2018,Thu,09:25,Single,No,No,No,40,Driver,Male,92,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),National or State Highway,No,No,75+,Weekday,Day
+20182013,Vic,2,2018,Sun,23:54,Multiple,No,No,No,80,Driver,Male,46,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,40-64,Weekend,Night
+20182013,Vic,2,2018,Sun,23:54,Multiple,No,No,No,80,Driver,Male,30,Major Cities of Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,26-39,Weekend,Night
+20182139,Vic,2,2018,Mon,11:00,Single,No,No,No,-9,Pedal cyclist,Male,40,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Local Road,No,No,40-64,Weekday,Day
+20182134,Vic,2,2018,Mon,14:45,Single,No,No,No,100,Driver,Male,68,Outer Regional Australia,North West,Horsham (RC),Arterial Road,No,No,65-74,Weekday,Day
+20182107,Vic,2,2018,Sat,14:45,Multiple,No,No,No,80,Motorcycle rider,Male,54,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),National or State Highway,No,No,40-64,Weekend,Day
+20182154,Vic,1,2018,Wed,18:20,Single,No,No,No,80,Driver,Female,21,Major Cities of Australia,Melbourne - North West,Brimbank (C),National or State Highway,No,No,17-25,Weekday,Night
+20182083,Vic,1,2018,Tue,14:15,Multiple,No,No,No,70,Driver,Male,80,Major Cities of Australia,Melbourne - North West,Moreland (C),National or State Highway,No,No,75+,Weekday,Day
+20182141,Vic,1,2018,Mon,14:40,Multiple,No,No,No,80,Motorcycle rider,Female,39,Major Cities of Australia,Melbourne - North East,Nillumbik (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20182198,Vic,1,2018,Sun,09:30,Single,No,No,No,60,Motorcycle rider,Male,55,Outer Regional Australia,Hume,Unincorporated Vic,Arterial Road,No,No,40-64,Weekend,Day
+20182170,Vic,1,2018,Sun,20:58,Single,No,No,No,100,Driver,Female,44,Inner Regional Australia,Melbourne - West,Melton (C),Arterial Road,No,No,40-64,Weekend,Night
+20182097,Vic,1,2018,Sat,06:37,Single,No,No,No,100,Passenger,Female,24,Outer Regional Australia,North West,Northern Grampians (S),Arterial Road,No,No,17-25,Weekend,Day
+20182043,Vic,1,2018,Mon,15:00,Multiple,No,No,No,100,Driver,Male,57,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No,40-64,Weekday,Day
+20182187,Vic,1,2018,Sat,10:14,Single,No,No,No,100,Motorcycle rider,Male,60,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Sub-arterial Road,No,No,40-64,Weekend,Day
+20182200,Vic,1,2018,Tue,10:35,Multiple,No,Yes,No,100,Driver,Male,18,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,17-25,Weekday,Day
+20182195,Vic,1,2018,Sun,13:57,Single,No,No,No,60,Driver,Female,73,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,65-74,Weekend,Day
+20182157,Vic,1,2018,Wed,14:37,Multiple,No,No,No,100,Driver,Male,62,Inner Regional Australia,Warrnambool and South West,Moyne (S),National or State Highway,No,No,40-64,Weekday,Day
+20182202,Vic,1,2018,Wed,12:23,Multiple,No,No,No,80,Passenger,Male,69,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,65-74,Weekday,Day
+20182185,Vic,1,2018,Tue,22:30,Multiple,No,No,No,100,Driver,Female,39,Inner Regional Australia,Hume,Greater Shepparton (C),National or State Highway,No,No,26-39,Weekday,Night
+20182059,Vic,1,2018,Sun,20:00,Single,No,No,No,100,Driver,Male,41,Outer Regional Australia,Hume,Alpine (S),Local Road,No,No,40-64,Weekend,Night
+20182055,Vic,1,2018,Sat,15:45,Single,No,No,No,60,Passenger,Male,57,Inner Regional Australia,Bendigo,Mount Alexander (S),National or State Highway,No,No,40-64,Weekend,Day
+20182184,Vic,1,2018,Fri,05:30,Single,No,No,No,50,Passenger,Male,39,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,26-39,Weekday,Night
+20182103,Vic,1,2018,Thu,05:45,Pedestrian,No,No,No,60,Pedestrian,Male,58,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No,40-64,Weekday,Night
+20182171,Vic,1,2018,Thu,07:46,Multiple,No,No,No,60,Driver,Male,30,Inner Regional Australia,Ballarat,Hepburn (S),Arterial Road,No,No,26-39,Weekday,Day
+20182028,Vic,1,2018,Mon,01:41,Single,No,No,No,110,Driver,Male,40,Inner Regional Australia,Ballarat,Moorabool (S),National or State Highway,Yes,No,40-64,Weekend,Night
+20182027,Vic,1,2018,Mon,05:50,Single,No,No,No,100,Passenger,Female,58,Inner Regional Australia,North West,Northern Grampians (S),Arterial Road,Yes,No,40-64,Weekend,Night
+20172089,Vic,12,2017,Sat,13:00,Single,No,No,No,100,Driver,Male,23,Outer Regional Australia,Bendigo,Loddon (S),Local Road,Yes,No,17-25,Weekend,Day
+20172064,Vic,12,2017,Fri,07:46,Multiple,No,No,No,50,Driver,Male,61,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,Yes,No,40-64,Weekday,Day
+20172167,Vic,12,2017,Thu,16:44,Single,No,No,No,100,Driver,Female,79,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,Yes,No,75+,Weekday,Day
+20172225,Vic,12,2017,Wed,11:00,Multiple,No,No,No,100,Motorcycle rider,Male,66,Inner Regional Australia,Hume,Murrindindi (S),Sub-arterial Road,Yes,No,65-74,Weekday,Day
+20172225,Vic,12,2017,Wed,11:00,Multiple,No,No,No,100,Motorcycle rider,Male,48,Inner Regional Australia,Hume,Murrindindi (S),Sub-arterial Road,Yes,No,40-64,Weekday,Day
+20172120,Vic,12,2017,Tue,10:50,Multiple,No,No,No,100,Driver,Male,52,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-arterial Road,Yes,No,40-64,Weekday,Day
+20172195,Vic,12,2017,Sun,19:34,Multiple,No,No,No,70,Driver,Male,35,Major Cities of Australia,Melbourne - West,Wyndham (C),Sub-arterial Road,Yes,No,26-39,Weekend,Night
+20172195,Vic,12,2017,Sun,19:34,Multiple,No,No,No,70,Passenger,Female,50,Major Cities of Australia,Melbourne - West,Wyndham (C),Sub-arterial Road,Yes,No,40-64,Weekend,Night
+20172195,Vic,12,2017,Sun,19:34,Multiple,No,No,No,70,Passenger,Male,40,Major Cities of Australia,Melbourne - West,Wyndham (C),Sub-arterial Road,Yes,No,40-64,Weekend,Night
+20172022,Vic,12,2017,Sat,16:46,Multiple,No,No,Yes,100,Driver,Male,59,Outer Regional Australia,North West,Northern Grampians (S),Sub-arterial Road,Yes,No,40-64,Weekend,Day
+20172012,Vic,12,2017,Fri,07:55,Multiple,No,No,No,100,Driver,Female,22,Inner Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No,17-25,Weekday,Day
+20172154,Vic,12,2017,Fri,10:15,Multiple,No,No,No,100,Pedal cyclist,Male,23,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-arterial Road,No,No,17-25,Weekday,Day
+20172093,Vic,12,2017,Thu,00:25,Multiple,No,No,No,60,Driver,Male,41,Major Cities of Australia,Melbourne - North East,Darebin (C),Sub-arterial Road,No,No,40-64,Weekday,Night
+20172146,Vic,12,2017,Thu,12:19,Multiple,No,No,No,100,Driver,Male,71,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-arterial Road,No,No,65-74,Weekday,Day
+20172218,Vic,12,2017,Wed,17:30,Single,No,No,No,100,Motorcycle rider,Male,47,Outer Regional Australia,Warrnambool and South West,Moyne (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172053,Vic,12,2017,Tue,11:15,Pedestrian,No,Yes,No,40,Pedestrian,Female,44,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172116,Vic,12,2017,Mon,16:10,Multiple,No,No,No,100,Driver,Male,46,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No,40-64,Weekday,Day
+20172229,Vic,12,2017,Sun,20:20,Single,No,No,No,60,Motorcycle pillion passenger,Male,48,Inner Regional Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No,40-64,Weekend,Night
+20172134,Vic,12,2017,Fri,11:35,Multiple,No,No,No,70,Motorcycle rider,Male,43,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172046,Vic,12,2017,Thu,11:00,Multiple,No,Yes,No,100,Driver,Male,55,Inner Regional Australia,Geelong,Surf Coast (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172004,Vic,12,2017,Thu,13:35,Pedestrian,No,No,No,70,Pedestrian,Male,77,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,75+,Weekday,Day
+20172204,Vic,12,2017,Tue,09:40,Single,No,No,No,-9,Other,Male,88,Inner Regional Australia,Ballarat,Hepburn (S),Access road,No,No,75+,Weekday,Day
+20172001,Vic,12,2017,Sun,09:27,Multiple,No,No,No,90,Pedal cyclist,Male,57,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Sub-arterial Road,No,No,40-64,Weekend,Day
+20172045,Vic,12,2017,Sat,13:00,Pedestrian,No,No,No,100,Pedestrian,Male,58,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,40-64,Weekend,Day
+20172220,Vic,12,2017,Fri,15:15,Pedestrian,Yes,No,No,60,Pedestrian,Male,85,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No,75+,Weekday,Day
+20172198,Vic,12,2017,Thu,17:10,Single,No,No,No,100,Driver,Female,19,Inner Regional Australia,Hume,Mitchell (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20172059,Vic,12,2017,Wed,17:25,Multiple,No,No,No,70,Driver,Female,27,Major Cities of Australia,Melbourne - Outer East,Manningham (C),Arterial Road,No,No,26-39,Weekday,Day
+20172023,Vic,12,2017,Mon,05:40,Single,No,No,No,100,Driver,Male,22,Inner Regional Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,17-25,Weekend,Night
+20172236,Vic,12,2017,Sun,18:47,Single,No,No,No,100,Driver,Male,40,Outer Regional Australia,North West,Yarriambiack (S),National or State Highway,No,No,40-64,Weekend,Night
+20172099,Vic,11,2017,Wed,19:39,Multiple,No,Yes,No,100,Driver,Male,43,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,40-64,Weekday,Night
+20172132,Vic,11,2017,Wed,14:50,Multiple,No,No,Yes,100,Driver,Female,35,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No,26-39,Weekday,Day
+20172147,Vic,11,2017,Sun,01:00,Pedestrian,No,No,No,80,Pedestrian,Male,43,Outer Regional Australia,Hume,Mansfield (S),Arterial Road,No,No,40-64,Weekend,Night
+20172088,Vic,11,2017,Sat,02:00,Single,No,No,No,100,Passenger,Male,17,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No,17-25,Weekend,Night
+20172088,Vic,11,2017,Sat,02:00,Single,No,No,No,100,Driver,Female,18,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No,17-25,Weekend,Night
+20172088,Vic,11,2017,Sat,02:00,Single,No,No,No,100,Passenger,Male,36,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No,26-39,Weekend,Night
+20172013,Vic,11,2017,Sat,09:30,Multiple,No,Yes,No,100,Driver,Female,31,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,26-39,Weekend,Day
+20172013,Vic,11,2017,Sat,09:30,Multiple,No,Yes,No,100,Passenger,Male,67,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,65-74,Weekend,Day
+20172020,Vic,11,2017,Fri,15:00,Multiple,No,Yes,No,70,Driver,Male,50,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No,40-64,Weekday,Day
+20172107,Vic,11,2017,Thu,12:07,Single,No,No,Yes,100,Driver,Male,37,Outer Regional Australia,North West,Ararat (RC),Arterial Road,No,No,26-39,Weekday,Day
+20172067,Vic,11,2017,Thu,12:43,Pedestrian,No,No,No,-9,Pedestrian,Male,84,Major Cities of Australia,Melbourne - West,Hobsons Bay (C),Collector Road,No,No,75+,Weekday,Day
+20172056,Vic,11,2017,Mon,17:00,Pedestrian,No,No,No,40,Pedestrian,Male,82,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekday,Day
+20172124,Vic,11,2017,Sat,22:20,Single,No,No,No,100,Driver,Male,66,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Sub-arterial Road,No,No,65-74,Weekend,Night
+20172069,Vic,11,2017,Sat,01:51,Multiple,No,No,No,60,Driver,Male,49,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,40-64,Weekend,Night
+20172027,Vic,11,2017,Fri,01:00,Single,No,No,No,50,Driver,Male,18,Major Cities of Australia,Melbourne - Inner South,Stonnington (C),Collector Road,No,No,17-25,Weekday,Night
+20172230,Vic,11,2017,Wed,09:30,Multiple,No,Yes,No,50,Driver,Male,84,Inner Regional Australia,Hume,Mitchell (S),Local Road,No,No,75+,Weekday,Day
+20172102,Vic,11,2017,Mon,08:04,Multiple,No,Yes,No,50,Pedal cyclist,Male,35,Major Cities of Australia,Melbourne - Inner,Darebin (C),Sub-arterial Road,No,No,26-39,Weekday,Day
+20172172,Vic,11,2017,Sat,14:31,Single,No,No,No,-9,Passenger,Female,16,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Local Road,No,No,0-16,Weekend,Day
+20172235,Vic,11,2017,Sat,14:20,Multiple,No,No,No,60,Passenger,Male,36,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No,26-39,Weekend,Day
+20172157,Vic,11,2017,Fri,02:19,Multiple,No,No,No,100,Driver,Male,35,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,No,No,26-39,Weekday,Night
+20172234,Vic,11,2017,Wed,16:15,Multiple,No,No,No,50,Motorcycle rider,Male,33,Major Cities of Australia,Melbourne - Outer East,Whitehorse (C),Local Road,No,No,26-39,Weekday,Day
+20172054,Vic,11,2017,Mon,13:15,Single,No,No,No,100,Passenger,Female,64,Inner Regional Australia,Hume,Mitchell (S),Arterial Road,No,No,40-64,Weekday,Day
+20172136,Vic,11,2017,Mon,12:17,Multiple,No,No,No,80,Driver,Male,75,Inner Regional Australia,Ballarat,Ballarat (C),National or State Highway,No,No,75+,Weekday,Day
+20172076,Vic,11,2017,Sun,02:15,Single,No,No,No,80,Passenger,Male,19,Inner Regional Australia,Hume,Strathbogie (S),Local Road,No,No,17-25,Weekend,Night
+20172149,Vic,11,2017,Sun,17:55,Multiple,No,No,No,100,Motorcycle rider,Male,32,Outer Regional Australia,Hume,Towong (S),National or State Highway,No,No,26-39,Weekend,Day
+20172057,Vic,11,2017,Sun,09:15,Single,No,No,No,100,Motorcycle rider,Male,60,Inner Regional Australia,Bendigo,Mount Alexander (S),National or State Highway,No,No,40-64,Weekend,Day
+20172026,Vic,11,2017,Sun,13:40,Multiple,No,No,No,100,Passenger,Female,70,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,65-74,Weekend,Day
+20172026,Vic,11,2017,Sun,13:40,Multiple,No,No,No,100,Driver,Male,72,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No,65-74,Weekend,Day
+20172163,Vic,11,2017,Sun,14:30,Multiple,No,No,No,80,Passenger,Female,79,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),National or State Highway,No,No,75+,Weekend,Day
+20172028,Vic,11,2017,Fri,16:45,Multiple,No,No,No,100,Driver,Female,46,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Local Road,No,No,40-64,Weekday,Day
+20172034,Vic,11,2017,Thu,02:22,Single,No,No,No,80,Driver,Male,38,Major Cities of Australia,Melbourne - South East,Monash (C),National or State Highway,No,No,26-39,Weekday,Night
+20172137,Vic,11,2017,Wed,21:00,Pedestrian,No,No,No,70,Pedestrian,Male,47,Major Cities of Australia,Mornington Peninsula,Frankston (C),Sub-arterial Road,No,No,40-64,Weekday,Night
+20172017,Vic,10,2017,Wed,20:30,Multiple,No,No,No,100,Pedal cyclist,Male,18,Inner Regional Australia,Geelong,Surf Coast (S),Local Road,No,No,17-25,Weekday,Night
+20172194,Vic,10,2017,Wed,16:48,Pedestrian,No,No,No,40,Pedestrian,Male,76,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Collector Road,No,No,75+,Weekday,Day
+20172079,Vic,10,2017,Mon,17:08,Multiple,No,No,Yes,80,Driver,Female,49,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,40-64,Weekday,Day
+20172231,Vic,10,2017,Sat,15:09,Single,Yes,No,No,100,Passenger,Female,71,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,65-74,Weekend,Day
+20172231,Vic,10,2017,Sat,15:09,Single,Yes,No,No,100,Passenger,Female,87,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,75+,Weekend,Day
+20172048,Vic,10,2017,Fri,03:39,Single,No,No,No,80,Driver,Male,18,Inner Regional Australia,Hume,Wodonga (C),National or State Highway,No,No,17-25,Weekday,Night
+20172044,Vic,10,2017,Tue,15:50,Multiple,No,No,No,60,Motorcycle rider,Male,44,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,40-64,Weekday,Day
+20172037,Vic,10,2017,Mon,23:00,Multiple,No,No,No,60,Driver,Female,53,Major Cities of Australia,Melbourne - Inner South,Monash (C),Local Road,No,No,40-64,Weekday,Night
+20172175,Vic,10,2017,Sun,13:14,Single,No,No,No,110,Passenger,Female,46,Inner Regional Australia,Hume,Strathbogie (S),National or State Highway,No,No,40-64,Weekend,Day
+20172073,Vic,10,2017,Sat,08:56,Pedestrian,No,No,No,60,Pedestrian,Male,97,Major Cities of Australia,Melbourne - Inner East,Whitehorse (C),Arterial Road,No,No,75+,Weekend,Day
+20172019,Vic,10,2017,Tue,21:02,Multiple,No,No,No,40,Motorcycle rider,Male,32,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Sub-arterial Road,No,No,26-39,Weekday,Night
+20172003,Vic,10,2017,Sun,01:05,Single,No,No,No,60,Passenger,Male,23,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,17-25,Weekend,Night
+20172215,Vic,9,2017,Mon,17:50,Multiple,No,No,Yes,100,Driver,Male,44,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),National or State Highway,No,No,40-64,Weekday,Day
+20172087,Vic,9,2017,Sun,16:45,Multiple,No,No,No,80,Passenger,Female,15,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,0-16,Weekend,Day
+20172087,Vic,9,2017,Sun,16:45,Multiple,No,No,No,80,Driver,Female,18,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,17-25,Weekend,Day
+20172184,Vic,9,2017,Wed,11:18,Single,No,No,No,100,Driver,Female,18,Inner Regional Australia,Geelong,Golden Plains (S),National or State Highway,No,No,17-25,Weekday,Day
+20172166,Vic,9,2017,Tue,14:20,Multiple,No,Yes,Yes,110,Passenger,Female,16,Inner Regional Australia,Ballarat,Moorabool (S),National or State Highway,No,No,0-16,Weekday,Day
+20172200,Vic,9,2017,Sun,13:30,Multiple,No,No,No,60,Motorcycle rider,Male,29,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Arterial Road,No,No,26-39,Weekend,Day
+20172143,Vic,9,2017,Wed,07:00,Single,No,No,No,100,Driver,Male,21,Inner Regional Australia,Shepparton,Campaspe (S),Collector Road,No,No,17-25,Weekday,Day
+20172180,Vic,9,2017,Sun,12:50,Multiple,No,No,No,80,Driver,Male,32,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,26-39,Weekend,Day
+20172100,Vic,9,2017,Sat,08:05,Multiple,No,No,No,100,Passenger,Female,61,Inner Regional Australia,Shepparton,Campaspe (S),Local Road,No,No,40-64,Weekend,Day
+20172100,Vic,9,2017,Sat,08:05,Multiple,No,No,No,100,Driver,Male,69,Inner Regional Australia,Shepparton,Campaspe (S),Local Road,No,No,65-74,Weekend,Day
+20172145,Vic,9,2017,Fri,19:42,Multiple,No,No,No,50,Motorcycle rider,Male,52,Major Cities of Australia,Melbourne - West,Moorabool (S),Local Road,No,No,40-64,Weekend,Night
+20172125,Vic,9,2017,Thu,16:40,Pedestrian,Yes,No,No,60,Pedestrian,Male,67,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No,65-74,Weekday,Day
+20172006,Vic,9,2017,Mon,16:45,Multiple,No,No,No,100,Driver,Female,40,Inner Regional Australia,Hume,Mitchell (S),National or State Highway,No,No,40-64,Weekday,Day
+20172052,Vic,9,2017,Sun,04:30,Single,No,No,No,50,Motorcycle rider,Male,20,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No,17-25,Weekend,Night
+20172090,Vic,9,2017,Sun,16:40,Multiple,No,No,No,80,Passenger,Male,32,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,26-39,Weekend,Day
+20172043,Vic,9,2017,Sun,14:08,Multiple,No,No,No,100,Driver,Female,77,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),National or State Highway,No,No,75+,Weekend,Day
+20172187,Vic,9,2017,Sat,19:20,Single,No,No,No,100,Motorcycle rider,Male,46,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No,40-64,Weekend,Night
+20172128,Vic,9,2017,Fri,10:40,Multiple,No,No,No,100,Driver,Male,69,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No,65-74,Weekday,Day
+20172139,Vic,8,2017,Tue,06:01,Multiple,No,No,Yes,60,Motorcycle rider,Male,49,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No,40-64,Weekday,Day
+20172082,Vic,8,2017,Mon,00:25,Pedestrian,No,No,No,60,Pedestrian,Male,34,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Sub-arterial Road,No,No,26-39,Weekend,Night
+20172066,Vic,8,2017,Sun,00:28,Single,No,No,No,100,Other,Male,21,Outer Regional Australia,North West,Gannawarra (S),Arterial Road,No,No,17-25,Weekend,Night
+20172066,Vic,8,2017,Sun,00:28,Single,No,No,No,100,Other,Male,21,Outer Regional Australia,North West,Gannawarra (S),Arterial Road,No,No,17-25,Weekend,Night
+20172066,Vic,8,2017,Sun,00:28,Single,No,No,No,100,Driver,Male,21,Outer Regional Australia,North West,Gannawarra (S),Arterial Road,No,No,17-25,Weekend,Night
+20172018,Vic,8,2017,Sun,17:40,Multiple,No,No,No,80,Driver,Female,50,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National or State Highway,No,No,40-64,Weekend,Day
+20172063,Vic,8,2017,Fri,01:00,Single,No,No,No,50,Driver,Male,21,Inner Regional Australia,Ballarat,Ballarat (C),Local Road,No,No,17-25,Weekday,Night
+20172063,Vic,8,2017,Fri,01:00,Single,No,No,No,50,Passenger,Male,21,Inner Regional Australia,Ballarat,Ballarat (C),Local Road,No,No,17-25,Weekday,Night
+20172171,Vic,8,2017,Fri,15:50,Multiple,No,No,No,60,Motorcycle rider,Male,43,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No,40-64,Weekday,Day
+20172211,Vic,8,2017,Thu,21:40,Pedestrian,No,No,No,100,Pedestrian,Male,56,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,40-64,Weekday,Night
+20172123,Vic,8,2017,Wed,12:15,Multiple,No,No,Yes,100,Driver,Male,71,Inner Regional Australia,Shepparton,Moira (S),Sub-arterial Road,No,No,65-74,Weekday,Day
+20172025,Vic,8,2017,Wed,10:20,Multiple,No,No,Yes,110,Driver,Male,82,Inner Regional Australia,Hume,Benalla (RC),National or State Highway,No,No,75+,Weekday,Day
+20172181,Vic,8,2017,Tue,18:25,Multiple,No,No,No,60,Passenger,Male,18,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Sub-arterial Road,No,No,17-25,Weekday,Night
+20172223,Vic,8,2017,Tue,18:15,Multiple,No,No,No,100,Driver,Female,80,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National or State Highway,No,No,75+,Weekday,Night
+20172061,Vic,8,2017,Sun,13:20,Multiple,No,No,No,100,Pedal cyclist,Male,53,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,40-64,Weekend,Day
+20172217,Vic,8,2017,Sun,09:45,Single,Yes,No,No,60,Passenger,Male,76,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,75+,Weekend,Day
+20172188,Vic,8,2017,Fri,05:30,Multiple,No,No,No,60,Driver,Male,39,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Collector Road,No,No,26-39,Weekday,Night
+20172193,Vic,8,2017,Fri,06:25,Single,No,No,No,100,Driver,Male,52,Outer Regional Australia,Shepparton,Moira (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172201,Vic,8,2017,Thu,15:05,Single,No,No,No,100,Driver,Male,35,Inner Regional Australia,Hume,Indigo (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20172040,Vic,8,2017,Wed,19:18,Multiple,No,No,No,100,Passenger,Female,14,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,0-16,Weekday,Night
+20172083,Vic,8,2017,Wed,11:20,Single,No,No,No,100,Motorcycle rider,Male,65,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-arterial Road,No,No,65-74,Weekday,Day
+20172040,Vic,8,2017,Wed,19:18,Multiple,No,No,No,100,Driver,Female,44,Major Cities of Australia,Melbourne - South East,Casey (C),National or State Highway,No,No,40-64,Weekday,Night
+20172111,Vic,8,2017,Sun,05:10,Single,No,No,No,60,Driver,Male,23,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Sub-arterial Road,No,No,17-25,Weekend,Night
+20172168,Vic,8,2017,Sat,20:00,Single,No,No,No,100,Driver,Male,27,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Arterial Road,No,No,26-39,Weekend,Night
+20172191,Vic,8,2017,Sat,15:40,Single,No,No,No,60,Driver,Male,28,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Arterial Road,No,No,26-39,Weekend,Day
+20172109,Vic,8,2017,Fri,18:30,Multiple,No,No,No,60,Passenger,Female,87,Major Cities of Australia,Melbourne - North East,Darebin (C),Sub-arterial Road,No,No,75+,Weekend,Night
+20172144,Vic,7,2017,Mon,17:10,Multiple,No,Yes,No,100,Driver,Male,27,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No,26-39,Weekday,Day
+20172212,Vic,7,2017,Sat,15:00,Single,No,No,No,100,Driver,Male,31,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,26-39,Weekend,Day
+20172186,Vic,7,2017,Thu,07:26,Multiple,No,Yes,No,100,Driver,Female,25,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No,17-25,Weekday,Day
+20172189,Vic,7,2017,Thu,06:45,Multiple,No,No,No,60,Motorcycle rider,Male,45,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Arterial Road,No,No,40-64,Weekday,Day
+20172010,Vic,7,2017,Tue,19:25,Multiple,No,No,No,100,Driver,Male,47,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No,40-64,Weekday,Night
+20172122,Vic,7,2017,Tue,17:39,Pedestrian,No,No,No,60,Pedestrian,Female,66,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No,65-74,Weekday,Day
+20172049,Vic,7,2017,Tue,15:35,Single,No,No,No,100,Passenger,Female,84,Inner Regional Australia,Shepparton,Moira (S),National or State Highway,No,No,75+,Weekday,Day
+20172238,Vic,7,2017,Mon,10:00,Single,No,No,No,40,Driver,Male,83,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Local Road,No,No,75+,Weekday,Day
+20172106,Vic,7,2017,Sun,16:25,Multiple,No,No,No,100,Driver,Female,75,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),Collector Road,No,No,75+,Weekend,Day
+20172233,Vic,7,2017,Sat,01:20,Single,No,No,No,100,Driver,Male,25,Inner Regional Australia,Shepparton,Campaspe (S),Sub-arterial Road,No,No,17-25,Weekend,Night
+20172005,Vic,7,2017,Fri,22:44,Pedestrian,No,No,No,60,Pedestrian,Male,58,Major Cities of Australia,Melbourne - North East,Banyule (C),Arterial Road,No,No,40-64,Weekend,Night
+20172070,Vic,7,2017,Fri,06:40,Pedestrian,No,No,No,50,Pedestrian,Female,79,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Local Road,No,No,75+,Weekday,Day
+20172207,Vic,7,2017,Thu,21:42,Single,No,No,No,60,Passenger,Female,16,Major Cities of Australia,Mornington Peninsula,Frankston (C),National or State Highway,No,No,0-16,Weekday,Night
+20172113,Vic,7,2017,Sun,13:05,Multiple,No,No,No,70,Passenger,Female,33,Major Cities of Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,26-39,Weekend,Day
+20172121,Vic,7,2017,Fri,22:30,Multiple,No,No,No,100,Driver,Male,23,Outer Regional Australia,Hume,Mansfield (S),National or State Highway,No,No,17-25,Weekend,Night
+20172185,Vic,7,2017,Fri,20:53,Multiple,Yes,No,No,60,Driver,Male,55,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Arterial Road,No,No,40-64,Weekend,Night
+20172182,Vic,7,2017,Fri,20:05,Multiple,No,No,No,80,Motorcycle rider,Male,21,Major Cities of Australia,Melbourne - Inner South,Bayside (C),National or State Highway,No,No,17-25,Weekend,Night
+20172084,Vic,7,2017,Thu,14:45,Multiple,No,Yes,Yes,100,Driver,Male,25,Major Cities of Australia,Melbourne - North West,Hume (C),National or State Highway,No,No,17-25,Weekday,Day
+20172126,Vic,7,2017,Mon,09:55,Multiple,No,Yes,No,50,Pedal cyclist,Female,42,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No,40-64,Weekday,Day
+20172222,Vic,7,2017,Sun,07:18,Single,No,No,No,60,Motorcycle rider,Male,29,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,26-39,Weekend,Day
+20172216,Vic,7,2017,Sun,19:10,Pedestrian,No,No,No,60,Pedestrian,Female,69,Major Cities of Australia,Melbourne - Inner,Yarra (C),Local Road,No,No,65-74,Weekend,Night
+20172014,Vic,6,2017,Fri,14:19,Pedestrian,No,No,Yes,50,Pedestrian,Female,56,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No,40-64,Weekday,Day
+20172127,Vic,6,2017,Thu,17:10,Single,No,No,No,100,Driver,Female,19,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,17-25,Weekday,Day
+20172071,Vic,6,2017,Sun,23:03,Multiple,No,No,No,60,Driver,Male,30,Major Cities of Australia,Melbourne - Inner,Darebin (C),Local Road,No,No,26-39,Weekend,Night
+20172232,Vic,6,2017,Sat,21:15,Pedestrian,No,No,No,80,Pedestrian,Male,67,Major Cities of Australia,Melbourne - South East,Casey (C),Local Road,No,No,65-74,Weekend,Night
+20172065,Vic,6,2017,Fri,17:10,Single,No,No,No,80,Motorcycle rider,Male,37,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Arterial Road,No,No,26-39,Weekday,Day
+20172009,Vic,6,2017,Fri,16:10,Multiple,No,No,No,100,Driver,Male,84,Inner Regional Australia,Shepparton,Moira (S),Local Road,No,No,75+,Weekday,Day
+20172176,Vic,6,2017,Tue,15:35,Multiple,Yes,No,No,100,Passenger,Female,80,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20172176,Vic,6,2017,Tue,15:35,Multiple,Yes,No,No,100,Passenger,Female,91,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20172176,Vic,6,2017,Tue,15:35,Multiple,Yes,No,No,100,Passenger,Female,95,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20172024,Vic,6,2017,Sun,17:30,Pedestrian,No,No,No,80,Pedestrian,Male,30,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National or State Highway,No,No,26-39,Weekend,Day
+20172050,Vic,6,2017,Wed,10:30,Multiple,No,No,No,100,Driver,Male,80,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20172007,Vic,6,2017,Sun,11:00,Multiple,No,No,No,80,Motorcycle rider,Male,62,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Collector Road,No,No,40-64,Weekend,Day
+20172133,Vic,6,2017,Thu,15:10,Single,No,No,No,110,Driver,Male,36,Inner Regional Australia,Hume,Strathbogie (S),National or State Highway,No,No,26-39,Weekday,Day
+20172094,Vic,6,2017,Wed,07:51,Multiple,No,No,No,60,Driver,Male,57,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172078,Vic,6,2017,Wed,13:50,Pedestrian,No,No,No,50,Pedestrian,Female,93,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No,75+,Weekday,Day
+20172095,Vic,5,2017,Sun,11:20,Multiple,No,No,No,60,Driver,Male,59,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No,40-64,Weekend,Day
+20172197,Vic,5,2017,Sun,16:05,Multiple,No,No,No,110,Passenger,Female,81,Inner Regional Australia,Hume,Benalla (RC),Local Road,No,No,75+,Weekend,Day
+20172197,Vic,5,2017,Sun,16:05,Multiple,No,No,No,110,Driver,Male,91,Inner Regional Australia,Hume,Benalla (RC),Local Road,No,No,75+,Weekend,Day
+20172118,Vic,5,2017,Sun,18:20,Single,No,No,No,100,Driver,Male,89,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No,75+,Weekend,Night
+20172206,Vic,5,2017,Sat,15:37,Single,No,No,No,80,Motorcycle rider,Male,42,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-arterial Road,No,No,40-64,Weekend,Day
+20172202,Vic,5,2017,Thu,15:20,Multiple,No,No,No,40,Motorcycle rider,Male,22,Major Cities of Australia,Melbourne - North East,Banyule (C),Sub-arterial Road,No,No,17-25,Weekday,Day
+20172148,Vic,5,2017,Mon,18:15,Multiple,No,No,No,100,Motorcycle rider,Male,62,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No,40-64,Weekday,Night
+20172199,Vic,5,2017,Fri,23:45,Single,No,No,No,100,Driver,Male,36,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Arterial Road,No,No,26-39,Weekend,Night
+20172208,Vic,5,2017,Tue,06:30,Single,No,No,No,80,Driver,Male,32,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Sub-arterial Road,No,No,26-39,Weekday,Day
+20172081,Vic,5,2017,Mon,08:45,Single,No,Yes,No,100,Driver,Male,21,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No,17-25,Weekday,Day
+20172042,Vic,5,2017,Fri,01:50,Single,No,No,No,70,Driver,Male,22,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,17-25,Weekday,Night
+20172155,Vic,5,2017,Fri,11:36,Multiple,No,No,No,60,Driver,Male,83,Major Cities of Australia,Melbourne - North East,Banyule (C),Sub-arterial Road,No,No,75+,Weekday,Day
+20172129,Vic,5,2017,Wed,22:00,Single,No,No,No,60,Driver,Female,27,Major Cities of Australia,Melbourne - South East,Cardinia (S),Arterial Road,No,No,26-39,Weekday,Night
+20172039,Vic,5,2017,Wed,15:00,Single,No,No,No,-9,Driver,Male,92,Inner Regional Australia,Ballarat,Moorabool (S),Local Road,No,No,75+,Weekday,Day
+20172141,Vic,5,2017,Mon,14:09,Single,No,No,No,100,Driver,Female,26,Inner Regional Australia,Ballarat,Central Goldfields (S),Arterial Road,No,No,26-39,Weekday,Day
+20172196,Vic,5,2017,Mon,10:33,Multiple,No,No,No,60,Motorcycle rider,Male,68,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No,65-74,Weekday,Day
+20172237,Vic,5,2017,Mon,17:55,Pedestrian,No,No,No,60,Pedestrian,Female,75,Major Cities of Australia,Melbourne - Inner East,Whitehorse (C),Arterial Road,No,No,75+,Weekday,Day
+20172074,Vic,5,2017,Fri,13:20,Multiple,No,No,No,50,Motorcycle rider,Male,49,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Local Road,No,No,40-64,Weekday,Day
+20172153,Vic,5,2017,Thu,07:00,Multiple,No,No,No,60,Pedal cyclist,Male,51,Major Cities of Australia,Melbourne - Inner,Port Phillip (C),Arterial Road,No,No,40-64,Weekday,Day
+20172158,Vic,5,2017,Tue,09:50,Single,No,No,No,100,Driver,Female,18,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National or State Highway,No,No,17-25,Weekday,Day
+20172051,Vic,5,2017,Mon,13:57,Single,No,No,No,60,Driver,Female,30,Inner Regional Australia,Ballarat,Ballarat (C),Collector Road,No,No,26-39,Weekday,Day
+20172192,Vic,4,2017,Sun,09:56,Multiple,No,No,No,70,Motorcycle rider,Male,46,Inner Regional Australia,Melbourne - South East,Cardinia (S),Arterial Road,No,No,40-64,Weekend,Day
+20172096,Vic,4,2017,Tue,18:34,Multiple,No,No,No,60,Motorcycle rider,Male,40,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No,40-64,Weekday,Night
+20172209,Vic,4,2017,Sun,16:20,Multiple,No,No,No,100,Motorcycle rider,Male,27,Outer Regional Australia,Latrobe - Gippsland,Unincorporated Vic,Access road,No,No,26-39,Weekend,Day
+20172135,Vic,4,2017,Fri,21:05,Pedestrian,No,No,No,50,Pedestrian,Male,43,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No,40-64,Weekend,Night
+20172038,Vic,4,2017,Fri,19:30,Single,No,No,No,100,Driver,Male,54,Inner Regional Australia,Hume,Murrindindi (S),National or State Highway,No,No,40-64,Weekend,Night
+20172091,Vic,4,2017,Fri,12:10,Pedestrian,No,No,No,60,Pedestrian,Male,4,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-arterial Road,No,No,0-16,Weekday,Day
+20172033,Vic,4,2017,Fri,13:45,Multiple,No,Yes,No,100,Driver,Male,68,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,65-74,Weekday,Day
+20172058,Vic,4,2017,Wed,14:45,Multiple,No,No,No,100,Passenger,Female,69,Remote Australia,Latrobe - Gippsland,East Gippsland (S),National or State Highway,No,No,65-74,Weekday,Day
+20172227,Vic,4,2017,Tue,16:19,Multiple,No,No,No,100,Driver,Male,21,Outer Regional Australia,Hume,Towong (S),Arterial Road,No,No,17-25,Weekday,Day
+20172075,Vic,4,2017,Tue,11:00,Single,No,No,No,40,Pedal cyclist,Male,77,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Local Road,No,No,75+,Weekday,Day
+20172159,Vic,4,2017,Tue,17:30,Pedestrian,No,No,No,60,Pedestrian,Male,85,Major Cities of Australia,Melbourne - Inner,Port Phillip (C),Arterial Road,No,No,75+,Weekday,Day
+20172178,Vic,4,2017,Sat,16:45,Multiple,No,No,No,100,Driver,Male,91,Inner Regional Australia,Melbourne - South East,Cardinia (S),National or State Highway,No,Yes,75+,Weekend,Day
+20172115,Vic,4,2017,Fri,08:50,Multiple,No,No,No,100,Pedal cyclist,Male,55,Major Cities of Australia,Melbourne - South East,Cardinia (S),National or State Highway,No,Yes,40-64,Weekday,Day
+20172150,Vic,4,2017,Thu,02:44,Single,No,No,No,80,Driver,Male,19,Inner Regional Australia,Hume,Wangaratta (RC),Local Road,No,Yes,17-25,Weekday,Night
+20172117,Vic,4,2017,Wed,17:15,Single,No,No,No,100,Driver,Male,69,Inner Regional Australia,Hume,Wangaratta (RC),Arterial Road,No,No,65-74,Weekday,Day
+20172016,Vic,4,2017,Wed,16:30,Multiple,No,No,No,100,Passenger,Female,75,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,75+,Weekday,Day
+20172016,Vic,4,2017,Wed,16:30,Multiple,No,No,No,100,Driver,Male,79,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,75+,Weekday,Day
+20172085,Vic,4,2017,Tue,07:30,Single,No,No,No,100,Driver,Male,33,Inner Regional Australia,Hume,Murrindindi (S),National or State Highway,No,No,26-39,Weekday,Day
+20172105,Vic,4,2017,Mon,17:00,Single,Yes,No,No,100,Passenger,Male,38,Outer Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No,26-39,Weekday,Day
+20172029,Vic,4,2017,Sun,14:30,Single,No,No,No,80,Passenger,Male,19,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,17-25,Weekend,Day
+20172029,Vic,4,2017,Sun,14:30,Single,No,No,No,80,Passenger,Male,19,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No,17-25,Weekend,Day
+20172165,Vic,4,2017,Fri,18:15,Multiple,No,No,No,70,Driver,Male,89,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No,75+,Weekend,Night
+20172213,Vic,4,2017,Fri,17:38,Pedestrian,No,Yes,No,60,Pedestrian,Male,19,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National or State Highway,No,No,17-25,Weekday,Day
+20172031,Vic,4,2017,Fri,14:00,Multiple,No,No,No,100,Driver,Male,26,Outer Regional Australia,North West,Buloke (S),National or State Highway,No,No,26-39,Weekday,Day
+20172072,Vic,4,2017,Fri,13:45,Multiple,No,No,Yes,50,Driver,Male,77,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Local Road,No,No,75+,Weekday,Day
+20172086,Vic,4,2017,Thu,02:20,Single,No,No,Yes,80,Driver,Male,40,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No,40-64,Weekday,Night
+20172032,Vic,4,2017,Tue,08:10,Single,No,No,No,80,Pedal cyclist,Male,64,Inner Regional Australia,Geelong,Greater Geelong (C),Local Road,No,No,40-64,Weekday,Day
+20172130,Vic,4,2017,Mon,23:35,Single,No,No,No,110,Driver,Male,73,Inner Regional Australia,Melbourne - North East,Mitchell (S),National or State Highway,No,No,65-74,Weekday,Night
+20172142,Vic,3,2017,Thu,06:58,Multiple,No,No,Yes,100,Driver,Male,56,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National or State Highway,No,No,40-64,Weekday,Day
+20172108,Vic,3,2017,Thu,11:30,Single,No,No,No,100,Driver,Male,85,Outer Regional Australia,North West,Buloke (S),Access road,No,No,75+,Weekday,Day
+20172131,Vic,3,2017,Tue,14:10,Single,No,No,No,100,Motorcycle rider,Male,54,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),Arterial Road,No,No,40-64,Weekday,Day
+20172035,Vic,3,2017,Sat,02:00,Single,No,No,No,60,Passenger,Male,22,Inner Regional Australia,Melbourne - West,Moorabool (S),Arterial Road,No,No,17-25,Weekend,Night
+20172177,Vic,3,2017,Sat,04:14,Single,No,No,No,80,Driver,Male,24,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),Arterial Road,No,No,17-25,Weekend,Night
+20172062,Vic,3,2017,Fri,00:30,Single,No,No,No,100,Driver,Male,39,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No,26-39,Weekday,Night
+20172219,Vic,3,2017,Fri,03:28,Single,No,No,No,60,Driver,Male,27,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-arterial Road,No,No,26-39,Weekday,Night
+20172228,Vic,3,2017,Fri,08:30,Multiple,No,No,Yes,100,Driver,Male,27,Inner Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No,26-39,Weekday,Day
+20172164,Vic,3,2017,Fri,16:20,Multiple,No,No,No,100,Pedal cyclist,Male,66,Inner Regional Australia,Hume,Benalla (RC),Arterial Road,No,No,65-74,Weekday,Day
+20172103,Vic,3,2017,Tue,11:10,Single,No,No,No,100,Other,Male,47,Outer Regional Australia,Hume,Wangaratta (RC),Local Road,No,No,40-64,Weekday,Day
+20172114,Vic,3,2017,Tue,02:30,Single,No,No,No,70,Motorcycle rider,Male,34,Major Cities of Australia,Melbourne - West,Melton (C),Arterial Road,No,No,26-39,Weekday,Night
+20172110,Vic,3,2017,Sun,00:25,Multiple,No,No,No,80,Driver,Female,35,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-arterial Road,No,No,26-39,Weekend,Night
+20172119,Vic,3,2017,Fri,06:30,Multiple,No,No,Yes,100,Driver,Male,49,Major Cities of Australia,Melbourne - North West,Brimbank (C),National or State Highway,No,No,40-64,Weekday,Day
+20172015,Vic,3,2017,Thu,14:47,Multiple,No,Yes,No,80,Driver,Male,28,Major Cities of Australia,Melbourne - West,Wyndham (C),National or State Highway,No,No,26-39,Weekday,Day
+20172162,Vic,3,2017,Tue,08:14,Pedestrian,No,No,No,50,Pedestrian,Male,13,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No,0-16,Weekday,Day
+20172240,Vic,3,2017,Mon,23:55,Multiple,No,No,No,100,Motorcycle rider,Male,30,Major Cities of Australia,Melbourne - West,Brimbank (C),National or State Highway,No,No,26-39,Weekday,Night
+20172210,Vic,3,2017,Sun,01:00,Single,No,No,No,100,Driver,Male,19,Outer Regional Australia,North West,Horsham (RC),Sub-arterial Road,No,No,17-25,Weekend,Night
+20172205,Vic,3,2017,Sat,11:35,Single,No,No,No,80,Passenger,Male,65,Outer Regional Australia,Latrobe - Gippsland,South Gippsland (S),Arterial Road,No,No,65-74,Weekend,Day
+20172221,Vic,3,2017,Fri,17:42,Multiple,No,No,Yes,60,Pedal cyclist,Female,35,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No,26-39,Weekday,Day
+20172030,Vic,3,2017,Tue,16:25,Single,No,No,No,100,Driver,Female,20,Inner Regional Australia,Ballarat,Pyrenees (S),National or State Highway,No,No,17-25,Weekday,Day
+20172068,Vic,3,2017,Sat,12:22,Single,No,No,No,-9,Driver,Male,26,Major Cities of Australia,Melbourne - West,Wyndham (C),Collector Road,No,No,26-39,Weekend,Day
+20172152,Vic,3,2017,Fri,13:30,Pedestrian,No,No,No,60,Pedestrian,Female,50,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172097,Vic,2,2017,Mon,07:00,Single,No,No,No,100,Driver,Male,40,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172214,Vic,2,2017,Mon,12:05,Multiple,No,No,No,110,Driver,Male,78,Inner Regional Australia,Hume,Strathbogie (S),National or State Highway,No,No,75+,Weekday,Day
+20172156,Vic,2,2017,Sun,14:45,Multiple,No,No,No,100,Driver,Female,22,Inner Regional Australia,Melbourne - West,Moorabool (S),Arterial Road,No,No,17-25,Weekend,Day
+20172179,Vic,2,2017,Fri,17:22,Multiple,No,Yes,No,80,Driver,Male,45,Inner Regional Australia,Ballarat,Hepburn (S),National or State Highway,No,No,40-64,Weekday,Day
+20172060,Vic,2,2017,Thu,07:40,Single,No,Yes,No,100,Driver,Male,25,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Sub-arterial Road,No,No,17-25,Weekday,Day
+20172077,Vic,2,2017,Wed,16:00,Multiple,No,No,No,100,Driver,Female,63,Inner Regional Australia,Shepparton,Moira (S),Sub-arterial Road,No,No,40-64,Weekday,Day
+20172140,Vic,2,2017,Mon,08:35,Multiple,No,No,No,70,Driver,Male,41,Major Cities of Australia,Melbourne - South East,Casey (C),Collector Road,No,No,40-64,Weekday,Day
+20172080,Vic,2,2017,Sat,15:15,Single,No,No,No,100,Motorcycle rider,Male,43,Outer Regional Australia,North West,Northern Grampians (S),Local Road,No,No,40-64,Weekend,Day
+20172138,Vic,2,2017,Fri,22:44,Single,No,No,No,50,Passenger,Male,40,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Local Road,No,No,40-64,Weekend,Night
+20172036,Vic,2,2017,Fri,20:40,Single,No,No,No,100,Driver,Male,55,Inner Regional Australia,Shepparton,Moira (S),Local Road,No,No,40-64,Weekend,Night
+20172112,Vic,2,2017,Thu,21:32,Single,No,No,No,80,Driver,Male,38,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No,26-39,Weekday,Night
+20172101,Vic,2,2017,Wed,18:44,Single,No,No,No,100,Driver,Male,70,Major Cities of Australia,Melbourne - West,Melton (C),Collector Road,No,No,65-74,Weekday,Night
+20172239,Vic,2,2017,Mon,15:36,Multiple,No,No,No,60,Motorcycle rider,Male,33,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No,26-39,Weekday,Day
+20172021,Vic,2,2017,Thu,14:00,Single,No,No,No,100,Driver,Male,62,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No,40-64,Weekday,Day
+20172173,Vic,2,2017,Wed,10:55,Single,No,No,No,100,Driver,Female,53,Inner Regional Australia,Hume,Benalla (RC),National or State Highway,No,No,40-64,Weekday,Day
+20172170,Vic,2,2017,Tue,14:45,Single,No,No,Yes,100,Driver,Male,59,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National or State Highway,No,No,40-64,Weekday,Day
+20172055,Vic,2,2017,Fri,07:30,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No,17-25,Weekday,Day
+20172161,Vic,2,2017,Thu,11:30,Single,No,No,No,100,Driver,Male,76,Outer Regional Australia,Warrnambool and South West,Moyne (S),Arterial Road,No,No,75+,Weekday,Day
+20172203,Vic,1,2017,Sun,04:30,Pedestrian,No,No,No,100,Pedestrian,Male,23,Outer Regional Australia,North West,Swan Hill (RC),Sub-arterial Road,No,No,17-25,Weekend,Night
+20172190,Vic,1,2017,Fri,03:50,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Ballarat,Golden Plains (S),National or State Highway,No,No,17-25,Weekday,Night
+20172183,Vic,1,2017,Wed,18:50,Multiple,No,No,No,100,Driver,Male,24,Inner Regional Australia,Shepparton,Greater Shepparton (C),National or State Highway,No,No,17-25,Weekday,Night
+20172011,Vic,1,2017,Tue,16:30,Multiple,No,No,No,60,Motorcycle rider,Male,41,Major Cities of Australia,Melbourne - West,Wyndham (C),Arterial Road,No,No,40-64,Weekday,Day
+20172092,Vic,1,2017,Sun,16:50,Multiple,No,No,No,100,Passenger,Male,52,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National or State Highway,No,No,40-64,Weekend,Day
+20172002,Vic,1,2017,Sat,16:47,Multiple,No,No,No,60,Motorcycle rider,Male,75,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No,75+,Weekend,Day
+20172008,Vic,1,2017,Tue,16:00,Multiple,No,No,Yes,110,Driver,Female,79,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),National or State Highway,No,No,75+,Weekday,Day
+20172098,Vic,1,2017,Mon,07:59,Pedestrian,No,No,No,60,Pedestrian,Female,53,Inner Regional Australia,Hume,Wangaratta (RC),Local Road,No,No,40-64,Weekday,Day
+20172104,Vic,1,2017,Sun,16:50,Multiple,No,No,No,100,Passenger,Female,38,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,No,No,26-39,Weekend,Day
+20172169,Vic,1,2017,Sat,00:35,Single,No,No,No,60,Passenger,Male,19,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Sub-arterial Road,No,No,17-25,Weekend,Night
+20172226,Vic,1,2017,Fri,16:45,Single,No,No,No,100,Passenger,Female,3,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No,0-16,Weekday,Day
+20172224,Vic,1,2017,Thu,08:55,Multiple,No,Yes,No,-9,Motorcycle rider,Female,45,Major Cities of Australia,Melbourne - Outer East,Knox (C),Arterial Road,No,No,40-64,Weekday,Day
+20172041,Vic,1,2017,Wed,03:50,Single,No,No,No,100,Driver,Male,26,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No,26-39,Weekday,Night
+20172174,Vic,1,2017,Wed,14:30,Multiple,No,No,Yes,100,Other,Female,61,Outer Regional Australia,North West,Swan Hill (RC),Local Road,No,No,40-64,Weekday,Day
+20172160,Vic,1,2017,Mon,15:30,Single,No,No,No,50,Passenger,Female,96,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Collector Road,No,No,75+,Weekday,Day
+20172047,Vic,1,2017,Fri,17:00,Multiple,No,No,No,100,Passenger,Female,17,Inner Regional Australia,Ballarat,Golden Plains (S),National or State Highway,No,No,17-25,Weekday,Day
+20172151,Vic,1,2017,Thu,17:28,Multiple,No,No,No,100,Driver,Male,44,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No,40-64,Weekday,Day
