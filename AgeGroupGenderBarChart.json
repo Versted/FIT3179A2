@@ -25,7 +25,7 @@
     "tooltip": [
       {"timeUnit":"day", "field": "Dayweek", "title": "Day"},
       {"field": "Time of day", "type": "nominal"},
-      {"aggregate":"count", "field": "Age Group", "type": "quantitative"}
+      {"aggregate":"count", "field": "Age Group", "type": "quantitative", "title": "Number of deaths"}
         ]
   },
   "config": {
