@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 200,
   "height": 260,
-  "data": { "url": "https://versted.github.io/FIT3179A2/a.csv"},
+  "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"},
   "title": "Road Deaths Based on Day of the Week and Time of Day",
   "width": {"step": 12},
   "mark": "bar",
