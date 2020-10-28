@@ -2,12 +2,12 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 200,
   "height": 260,
-  "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"},
+  "data": { "url": "https://versted.github.io/FIT3179A2/a.csv"},
   "title": "Road Deaths Based on Day of the Week and Time of Day",
   "width": {"step": 12},
   "mark": "bar",
   "encoding": {
-    "column": {"timeUnit":"day", "field": "Dayweek", "spacing": 25, "type": "ordinal" , "title":null
+    "column": {"timeUnit":"day", "field": "Dayweek", "spacing": 25, "title":null
     },
     "y": {
       "aggregate": "count", "field": "",
@@ -21,11 +21,15 @@
     "color": {
       "field": "Time of day",
       "scale": {"range": ["#675193", "#ca8861"]}
-    }
+    },
+    "tooltip": [
+      {"timeUnit":"day", "field": "Dayweek", "title": "Day"},
+      {"field": "Time of day", "type": "nominal"},
+      {"aggregate":"count", "field": "Age Group", "type": "quantitative"}
+        ]
   },
   "config": {
     "view": {"stroke": "transparent"},
     "axis": {"domainWidth": 1}
   }
 }
-
