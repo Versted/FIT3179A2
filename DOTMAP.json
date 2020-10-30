@@ -3,6 +3,7 @@
   "title": "Road deaths Victoria 2017-2019",
   "width": 480,
   "height": 300,
+  "background": "lightblue",
   "layer": [
     {
       "data": {
