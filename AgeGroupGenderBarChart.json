@@ -4,6 +4,7 @@
   "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"},
   "title": "Road Deaths Based on Day of the Week and Time of Day",
   "width": {"step": 20},
+  "background": "lightblue",
   "mark": "bar",
   "encoding": {
     "column": {"timeUnit":"day", "field": "Dayweek", "spacing": 25, "title":null
