@@ -2,6 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 400,
   "height": 300,
+  "background": "lightblue",
   "title": "Road Deaths Victoria by Road User",
   "data": {
     "url": "https://versted.github.io/FIT3179/DeathsIndiv.csv"},
