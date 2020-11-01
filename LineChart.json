@@ -1,3 +1,4 @@
+  
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 400,
@@ -42,7 +43,8 @@
       "encoding": {
         "color": {
           "field": "Road_User",
-          "type": "nominal"
+          "type": "nominal",
+          "scale": {"range": ["#675193", "red", "blue", "pink", "yellow", "#ca8861", "gold"]}
         },
         "opacity": {
           "condition": {"selection": "Road_User_highlight", "value": 0.6},
