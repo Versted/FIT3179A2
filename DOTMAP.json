@@ -44,7 +44,7 @@
           "title": "Number of fatalities",
         "type": "quantitative",
         "scale":{
-        "scheme":"reds"
+        "scheme":"goldred"
       }
     },
         "tooltip": [
@@ -57,4 +57,3 @@
     }
   ]
 }
-
