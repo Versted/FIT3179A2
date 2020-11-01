@@ -4,7 +4,7 @@
   "data": { "url": "https://versted.github.io/FIT3179A2/DeathsIndiv.csv"},
   "background": "lightblue",
   "mark": "bar",
-  "width": 150,
+  "width": 200,
   "height": 300,
   "encoding": {
     "y": {
