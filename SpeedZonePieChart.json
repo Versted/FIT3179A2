@@ -16,16 +16,14 @@
           {"field": "Speed_Limit", "equal": "60"},
           {"field": "Speed_Limit", "equal": "70"},
           {"field": "Speed_Limit", "equal": "80"},
-          {"field": "Speed_Limit", "equal": "90"},
-          {"field": "Speed_Limit", "equal": "100"},
-          {"field": "Speed_Limit", "equal": "110"}
+          {"field": "Speed_Limit", "equal": "100"}
         ]
       }
     }
   ],
   "encoding": {
     "theta": {"aggregate": "count", "field": "", "type": "quantitative","stack": true},
-    "color": {"field": "Speed_Limit", "type": "nominal", "title":"Speed Limit"}
+    "color": {"field": "Speed_Limit", "type": "nominal", "title":"Speed Limit", "scale": {"range": ["#675193", "red", "blue", "pink", "yellow", "#ca8861"]}}
   },
   "layer": [{
     "mark": {"type": "arc", "outerRadius": 90, "stroke": "white"}
@@ -37,4 +35,3 @@
   }],
   "view": {"stroke": null}
 }
-
